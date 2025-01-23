@@ -1,0 +1,6029 @@
+[
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "370010",
+			"account_name": "曲阜富华燃气有限公司",
+			"cate1": "",
+			"cate2": "",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "370010",
+			"CUC": "9137080076480560X7"
+		},
+		"site": [
+			{
+				"short_code": "370104",
+				"name": "OU_山东壹品慧电子商务有限公司宁阳分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "210034",
+			"account_name": "宽甸中燃城市燃气发展有限公司",
+			"cate1": "",
+			"cate2": "",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "210034",
+			"CUC": "91210624MA0UAM6FX6"
+		},
+		"site": [
+			{
+				"short_code": "210093",
+				"name": "OU_辽宁壹品慧科技有限公司宽甸分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "230009",
+			"account_name": "木兰县中庆清洁能源有限公司",
+			"cate1": "",
+			"cate2": "",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "230009",
+			"CUC": "91230127063676761P"
+		},
+		"site": [
+			{
+				"short_code": "230031",
+				"name": "OU_绥滨中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "150007",
+			"account_name": "呼和浩特中燃城市燃气发展有限公司",
+			"cate1": "",
+			"cate2": "",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "150007",
+			"CUC": "91150100114151675K"
+		},
+		"site": [
+			{
+				"short_code": "130055",
+				"name": "OU_河北华通燃气设备有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00007297",
+			"account_name": "梅州市交通运输局",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "11441400007208189C"
+		},
+		"site": [
+			{
+				"short_code": "440112",
+				"name": "OU_广东壹品慧科技有限公司梅州分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00014002",
+			"account_name": "广西水产畜牧学校",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "QCC500000001173"
+		},
+		"site": [
+			{
+				"short_code": "450075",
+				"name": "OU_广西壹品慧电子商务有限公司南宁分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00018946",
+			"account_name": "包头盛泰汽车零部件制造有限公司",
+			"cate1": "工业户",
+			"cate2": "区域内",
+			"cate3": "普通工业户",
+			"cate4": "大型工业户",
+			"cate5": "",
+			"custgroup": "C00000064",
+			"CUC": "91150200329018134X"
+		},
+		"site": [
+			{
+				"short_code": "150039",
+				"name": "OU_包头壹品慧生活科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00019780",
+			"account_name": "居民户-普表-区域外-气代煤-第二档燃气",
+			"cate1": "居民户",
+			"cate2": "区域外",
+			"cate3": "气代煤居民户",
+			"cate4": "",
+			"cate5": "第二档燃气",
+			"custgroup": "C00000113",
+			"CUC": "QCCJMH000000005"
+		},
+		"site": [
+			{
+				"short_code": "610042",
+				"name": "OU_周至延长中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00019792",
+			"account_name": "居民户-普表-区域内-普通居民-第二档燃气",
+			"cate1": "居民户",
+			"cate2": "区域内",
+			"cate3": "普通居民户",
+			"cate4": "",
+			"cate5": "第二档燃气",
+			"custgroup": "C00000075",
+			"CUC": "QCCJMH000000002"
+		},
+		"site": [
+			{
+				"short_code": "650001",
+				"name": "OU_伊犁中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00041448",
+			"account_name": "大悟思源实验学校",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "1242092230982282XU"
+		},
+		"site": [
+			{
+				"short_code": "420063",
+				"name": "OU_大悟中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00045558",
+			"account_name": "宿州市埇桥区蒿沟乡中心学校",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "12341302082234950L"
+		},
+		"site": [
+			{
+				"short_code": "340056",
+				"name": "OU_宿州壹品慧生活科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00127125",
+			"account_name": "中国农业发展银行泗水县支行",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "9137083186639862XC"
+		},
+		"site": [
+			{
+				"short_code": "370099",
+				"name": "OU_山东壹品慧电子商务有限公司泗水分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00188573",
+			"account_name": "大埔县公安局",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "11441422007217675P"
+		},
+		"site": [
+			{
+				"short_code": "440118",
+				"name": "OU_广东壹品慧科技有限公司大埔分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00231628",
+			"account_name": "圣托利（广州）酒店有限公司",
+			"cate1": "商业户",
+			"cate2": "区域外",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000078",
+			"CUC": "91440101MA59NXJM0K"
+		},
+		"site": [
+			{
+				"short_code": "440114",
+				"name": "OU_广东壹品慧科技有限公司广州分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00248946",
+			"account_name": "漳州市芗城区浦南双溪村民委员会",
+			"cate1": "其他户",
+			"cate2": "区域内",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000089",
+			"CUC": "5525485485599344"
+		},
+		"site": [
+			{
+				"short_code": "350025",
+				"name": "OU_漳州安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "440080",
+			"account_name": "深圳乐邦建设工程有限公司",
+			"cate1": "",
+			"cate2": "",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "440080",
+			"CUC": "91440300MA5FG81J05"
+		},
+		"site": [
+			{
+				"short_code": "410104",
+				"name": "OU_河南壹品慧电商有限公司濮阳县分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00253297",
+			"account_name": "中国天辰工程有限公司",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "91120113103063864L"
+		},
+		"site": [
+			{
+				"short_code": "440090",
+				"name": "OU_深圳市宏信商业保理有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00019783",
+			"account_name": "居民户-卡表-区域外-气代煤-第一档燃气",
+			"cate1": "居民户",
+			"cate2": "区域外",
+			"cate3": "气代煤居民户",
+			"cate4": "",
+			"cate5": "第一档燃气",
+			"custgroup": "C00000070",
+			"CUC": "QCCJMH000000016"
+		},
+		"site": [
+			{
+				"short_code": "230017",
+				"name": "OU_鸡西中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C59422353",
+			"account_name": "张朋",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "429006198209298233"
+		},
+		"site": [
+			{
+				"short_code": "420171",
+				"name": "OU_湖北壹品慧科技有限公司天门分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00272380",
+			"account_name": "C端零售客户",
+			"cate1": "其他户",
+			"cate2": "区域内",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000089",
+			"CUC": "91640400MA76H26870"
+		},
+		"site": [
+			{
+				"short_code": "350115",
+				"name": "OU_漳州云霄壹品慧科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C54483486",
+			"account_name": "新华通讯社广西分社",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "450103198209250030."
+		},
+		"site": [
+			{
+				"short_code": "450075",
+				"name": "OU_广西壹品慧电子商务有限公司南宁分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "100066",
+			"account_name": "佛山市壹品慧电气有限公司",
+			"cate1": "",
+			"cate2": "",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "100066",
+			"CUC": "91440606MAA4HH809P"
+		},
+		"site": [
+			{
+				"short_code": "340080",
+				"name": "OU_安徽壹品慧科技有限公司休宁分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "330057",
+			"account_name": "杭州壹品慧贸易有限公司",
+			"cate1": "",
+			"cate2": "",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "330057",
+			"CUC": "91330102MA7E5TJU5W"
+		},
+		"site": [
+			{
+				"short_code": "440106",
+				"name": "OU_深圳市壹品慧到家科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "230141",
+			"account_name": "黑龙江壹品慧科技有限公司方正分公司",
+			"cate1": "",
+			"cate2": "",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "230141",
+			"CUC": "91230124MABMEAYN5X"
+		},
+		"site": [
+			{
+				"short_code": "230144",
+				"name": "OU_黑龙江壹品慧科技有限公司哈尔滨阿城分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "210093",
+			"account_name": "辽宁壹品慧科技有限公司宽甸分公司",
+			"cate1": "",
+			"cate2": "",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "210093",
+			"CUC": "91210624MABUPGBD0B"
+		},
+		"site": [
+			{
+				"short_code": "210034",
+				"name": "OU_宽甸中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C70106639",
+			"account_name": "广州市民兵预备役训练基地",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "124401004553500667"
+		},
+		"site": [
+			{
+				"short_code": "440114",
+				"name": "OU_广东壹品慧科技有限公司广州分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C70093872",
+			"account_name": "新沂市沭东新城投资开发有限公司4",
+			"cate1": "工业户",
+			"cate2": "区域内",
+			"cate3": "普通工业户",
+			"cate4": "大型工业户",
+			"cate5": "",
+			"custgroup": "C00000064",
+			"CUC": "A91320381670126956L"
+		},
+		"site": [
+			{
+				"short_code": "320014",
+				"name": "OU_新沂中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C70264928",
+			"account_name": "孝感市坤之佳酒店管理有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91420900MABPE28P7D"
+		},
+		"site": [
+			{
+				"short_code": "420035",
+				"name": "OU_孝感壹品慧生活科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C70209364",
+			"account_name": "GF230802芜湖高级职业技术学校城南校区烹饪实训基地",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "1234020048512125618"
+		},
+		"site": [
+			{
+				"short_code": "340013",
+				"name": "OU_芜湖中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00307384",
+			"account_name": "濮阳市硕胜化工有限公司",
+			"cate1": "批发户",
+			"cate2": "",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000098",
+			"CUC": "91410902MA9GY8KN0N"
+		},
+		"site": [
+			{
+				"short_code": "100041",
+				"name": "OU_中燃宏大能源贸易有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71576748",
+			"account_name": "南宁市青秀区消防救援大队",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "11450100MB1E5349X6"
+		},
+		"site": [
+			{
+				"short_code": "450075",
+				"name": "OU_广西壹品慧电子商务有限公司南宁分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00313259",
+			"account_name": "绵阳市游仙区花果山山湾农庄(废）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "中型商业户",
+			"cate5": "",
+			"custgroup": "C00000102",
+			"CUC": "2510704MA68WRGJOU"
+		},
+		"site": [
+			{
+				"short_code": "510010",
+				"name": "OU_绵阳市中燃金泰燃气有限公司忠兴分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71797798",
+			"account_name": "包头市华隆综合企业有限责任公司（包头燃气）",
+			"cate1": "工业户",
+			"cate2": "区域内",
+			"cate3": "普通工业户",
+			"cate4": "小型工业户",
+			"cate5": "",
+			"custgroup": "C00000081",
+			"CUC": "911502041144901401"
+		},
+		"site": [
+			{
+				"short_code": "150001",
+				"name": "OU_包头市燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71782102",
+			"account_name": "杭州众略置业有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "中型商业户",
+			"cate5": "",
+			"custgroup": "C00000102",
+			"CUC": "91330109MABMR5JD5H"
+		},
+		"site": [
+			{
+				"short_code": "330059",
+				"name": "OU_浙江壹品慧科技有限公司杭州分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71906327",
+			"account_name": "嘉祥县现虎农家菜馆",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92370829MA3RPPCWX5"
+		},
+		"site": [
+			{
+				"short_code": "370102",
+				"name": "OU_山东壹品慧电子商务有限公司济宁分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00316602",
+			"account_name": "陕西协成测试技术有限公司",
+			"cate1": "商业户",
+			"cate2": "区域外",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000078",
+			"CUC": "91610131MA6TX7EA4N"
+		},
+		"site": [
+			{
+				"short_code": "610076",
+				"name": "OU_宝鸡壹品慧优选科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71907463",
+			"account_name": "芜湖棒泰科技有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91340221MA8N40T25H"
+		},
+		"site": [
+			{
+				"short_code": "340001",
+				"name": "OU_芜湖湾沚中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71943076",
+			"account_name": "徐州永益酒店管理有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "91320305MAE0Y0Q709"
+		},
+		"site": [
+			{
+				"short_code": "320095",
+				"name": "OU_江苏壹品慧科技有限公司贾汪分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317301",
+			"account_name": "老李面馆",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "51564984715"
+		},
+		"site": [
+			{
+				"short_code": "330049",
+				"name": "OU_金华壹品慧生活科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72007713",
+			"account_name": "杭州明巨科技有限公司",
+			"cate1": "工业户",
+			"cate2": "区域内",
+			"cate3": "普通工业户",
+			"cate4": "大型工业户",
+			"cate5": "",
+			"custgroup": "C00000064",
+			"CUC": "91330109MA2KHHTB2F"
+		},
+		"site": [
+			{
+				"short_code": "330004",
+				"name": "OU_杭州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72018316",
+			"account_name": "南陵县俞民则豆制品作坊",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92340223MA2WHK090P"
+		},
+		"site": [
+			{
+				"short_code": "340028",
+				"name": "OU_南陵中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317302",
+			"account_name": "建寅私家面馆",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "614964984984"
+		},
+		"site": [
+			{
+				"short_code": "330049",
+				"name": "OU_金华壹品慧生活科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72012662",
+			"account_name": "无为市伍哥餐饮店（个体工商户）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92340225MAE7GLT32U"
+		},
+		"site": [
+			{
+				"short_code": "340078",
+				"name": "OU_安徽壹品慧科技有限公司无为分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317452",
+			"account_name": "大头饭店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "60116465464"
+		},
+		"site": [
+			{
+				"short_code": "330049",
+				"name": "OU_金华壹品慧生活科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72014569",
+			"account_name": "无为县无城一味饭店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92340225MA2NRXY13N"
+		},
+		"site": [
+			{
+				"short_code": "340078",
+				"name": "OU_安徽壹品慧科技有限公司无为分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71683413",
+			"account_name": "易礼强",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "420583196509052211"
+		},
+		"site": [
+			{
+				"short_code": "420040",
+				"name": "OU_宜昌中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71937024",
+			"account_name": "沧州喜都汇餐饮有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "S92130903MA08YQ2N10"
+		},
+		"site": [
+			{
+				"short_code": "130274",
+				"name": "OU_河北壹品慧科技有限公司沧州分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72005836",
+			"account_name": "马么苏（兰州手工拉面）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "SFZ622926198906150"
+		},
+		"site": [
+			{
+				"short_code": "450015",
+				"name": "OU_岑溪市恒兴天然气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71998054",
+			"account_name": "西安市汉长城保护区程雪妮馒头店",
+			"cate1": "商业户",
+			"cate2": "区域外",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000068",
+			"CUC": "92610112MACHWQ3H89"
+		},
+		"site": [
+			{
+				"short_code": "610053",
+				"name": "OU_西安中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71997978",
+			"account_name": "迁安中石油昆仑燃气有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "911302836934541785"
+		},
+		"site": [
+			{
+				"short_code": "210008",
+				"name": "OU_盖州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019285",
+			"account_name": "无为市沁园私房菜馆（个体工商户）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92340225MAE8MEFY14"
+		},
+		"site": [
+			{
+				"short_code": "340078",
+				"name": "OU_安徽壹品慧科技有限公司无为分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72015918",
+			"account_name": "山南新区淮蓝牛餐饮店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92340400MAE51XQN6B"
+		},
+		"site": [
+			{
+				"short_code": "340014",
+				"name": "OU_淮南中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317213",
+			"account_name": "刘志发",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "51654654654654"
+		},
+		"site": [
+			{
+				"short_code": "330049",
+				"name": "OU_金华壹品慧生活科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317520",
+			"account_name": "阳光保险经纪（上海）有限公司",
+			"cate1": "其他户",
+			"cate2": "区域内",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000089",
+			"CUC": "91310115MA1K3MBN1A"
+		},
+		"site": [
+			{
+				"short_code": "320099",
+				"name": "OU_江苏壹品慧科技有限公司泰兴分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317450",
+			"account_name": "老长拉面",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "51564466545454"
+		},
+		"site": [
+			{
+				"short_code": "330049",
+				"name": "OU_金华壹品慧生活科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72002327",
+			"account_name": "抚顺市望花区胜君自助快餐店(个体工商户)",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92210404MADX3HJ396"
+		},
+		"site": [
+			{
+				"short_code": "210083",
+				"name": "OU_辽宁壹品慧科技有限公司抚顺分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019933",
+			"account_name": "商城县鄢岗镇卫生院",
+			"cate1": "公福户",
+			"cate2": "区域外",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000105",
+			"CUC": "41950783941150411C2201"
+		},
+		"site": [
+			{
+				"short_code": "410030",
+				"name": "OU_商城中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71952535",
+			"account_name": "宝鸡渭滨文旅投资发展有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91610302MADGEFWB6Y"
+		},
+		"site": [
+			{
+				"short_code": "610016",
+				"name": "OU_宝鸡中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71800827",
+			"account_name": "兰云贺1",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "130221197504192610"
+		},
+		"site": [
+			{
+				"short_code": "130005",
+				"name": "OU_唐山翔科燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72018572",
+			"account_name": "唐山市丰南区丰南镇鸭掌门火锅店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92130282MA099GYN2H"
+		},
+		"site": [
+			{
+				"short_code": "130005",
+				"name": "OU_唐山翔科燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72016574",
+			"account_name": "臧巍（油饼母鸡汤）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "320326198006090424"
+		},
+		"site": [
+			{
+				"short_code": "320014",
+				"name": "OU_新沂中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72003477",
+			"account_name": "丰南齐丽焕配气工程",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "Z130282199409083821"
+		},
+		"site": [
+			{
+				"short_code": "130005",
+				"name": "OU_唐山翔科燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72009290",
+			"account_name": "宜昌掼蛋文化娱乐有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91420503MAD54JF47C"
+		},
+		"site": [
+			{
+				"short_code": "420040",
+				"name": "OU_宜昌中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317451",
+			"account_name": "锦英拉面",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "48411661564165"
+		},
+		"site": [
+			{
+				"short_code": "330049",
+				"name": "OU_金华壹品慧生活科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72003457",
+			"account_name": "丰南张春辉配气工程",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "Z130222198111180011"
+		},
+		"site": [
+			{
+				"short_code": "130005",
+				"name": "OU_唐山翔科燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317300",
+			"account_name": "文鑫鲜铺",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "15648885222"
+		},
+		"site": [
+			{
+				"short_code": "330049",
+				"name": "OU_金华壹品慧生活科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72012296",
+			"account_name": "S点军区赵席味餐饮店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "S92420504MAE771JY9H"
+		},
+		"site": [
+			{
+				"short_code": "420040",
+				"name": "OU_宜昌中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019869",
+			"account_name": "S宜昌市伍家岗区蛙一刀麻椒鱼餐饮店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "S92420503MAE15LFC11"
+		},
+		"site": [
+			{
+				"short_code": "420040",
+				"name": "OU_宜昌中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021433",
+			"account_name": "唐山市源顺祥阀门制造有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91130282692050788C"
+		},
+		"site": [
+			{
+				"short_code": "130261",
+				"name": "OU_河北壹品慧科技有限公司唐山市分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72005544",
+			"account_name": "中卫市万家鲜豆香坊商业燃气管道工程",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92640500MAE5Q21K4P"
+		},
+		"site": [
+			{
+				"short_code": "640002",
+				"name": "OU_宁夏深中天然气开发有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71998515",
+			"account_name": "中卫市魏文博商业燃气管道工程",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "640321199811200339"
+		},
+		"site": [
+			{
+				"short_code": "640002",
+				"name": "OU_宁夏深中天然气开发有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72010004",
+			"account_name": "福鼎市前岐悦动时光音乐餐吧",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92350982MAE40D9RX9"
+		},
+		"site": [
+			{
+				"short_code": "350021",
+				"name": "OU_福鼎市安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72022167",
+			"account_name": "泗水县一谷晋刀削面",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "煤改气商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000093",
+			"CUC": "370828199003221648"
+		},
+		"site": [
+			{
+				"short_code": "370014",
+				"name": "OU_泗水富地燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72017996",
+			"account_name": "辽阳市悦玺沐足足疗有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91211002MAE1LGRE8E"
+		},
+		"site": [
+			{
+				"short_code": "210015",
+				"name": "OU_辽阳中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72011610",
+			"account_name": "杨尔康（云鼎时代周麻婆）1",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92350982MAE5MFJA0N"
+		},
+		"site": [
+			{
+				"short_code": "350021",
+				"name": "OU_福鼎市安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72018680",
+			"account_name": "S点军区不一样饭庄",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "S92420504MA4B15302J"
+		},
+		"site": [
+			{
+				"short_code": "420040",
+				"name": "OU_宜昌中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019858",
+			"account_name": "S宜昌伍家岗区云上休闲娱乐馆",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "S92420503MAE325C06L"
+		},
+		"site": [
+			{
+				"short_code": "420040",
+				"name": "OU_宜昌中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72017843",
+			"account_name": "SSSS宜昌新恒基投资开发有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "大型商业户",
+			"cate5": "",
+			"custgroup": "C00000066",
+			"CUC": "SS91420500773918550B"
+		},
+		"site": [
+			{
+				"short_code": "420040",
+				"name": "OU_宜昌中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72020953",
+			"account_name": "锦州矿山机器(集团)有限公司1",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91210700774614380DJ"
+		},
+		"site": [
+			{
+				"short_code": "210012",
+				"name": "OU_锦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021919",
+			"account_name": "芜湖市铂领酒店管理有限公司1",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "9134022IMADT9MXT3W（1）"
+		},
+		"site": [
+			{
+				"short_code": "340001",
+				"name": "OU_芜湖湾沚中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72016222",
+			"account_name": "芜湖石大新能源科技有限公司鸠江区分公司1",
+			"cate1": "工业户",
+			"cate2": "区域内",
+			"cate3": "普通工业户",
+			"cate4": "大型工业户",
+			"cate5": "",
+			"custgroup": "C00000064",
+			"CUC": "91340207MA2RKFM051"
+		},
+		"site": [
+			{
+				"short_code": "340013",
+				"name": "OU_芜湖中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021746",
+			"account_name": "弋江区面善之家餐饮店1",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "92340203MAE61D07U"
+		},
+		"site": [
+			{
+				"short_code": "340013",
+				"name": "OU_芜湖中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72017056",
+			"account_name": "富县中燃",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "煤改气商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000093",
+			"CUC": "SX91610628MA6YJR3F8G"
+		},
+		"site": [
+			{
+				"short_code": "610040",
+				"name": "OU_富县中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71823614",
+			"account_name": "广州农村商业银行股份有限公司从化支行",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "91440101191271902J"
+		},
+		"site": [
+			{
+				"short_code": "440114",
+				"name": "OU_广东壹品慧科技有限公司广州分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "350116",
+			"account_name": "漳州诏安壹品慧生活服务科技有限公司",
+			"cate1": "",
+			"cate2": "",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "350116",
+			"CUC": "91350624MAE552WF61"
+		},
+		"site": [
+			{
+				"short_code": "350036",
+				"name": "OU_漳州安然燃气有限公司诏安分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72005943",
+			"account_name": "无为市柒七餐饮店（个体工商户）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92340225MAE4ERYK6C"
+		},
+		"site": [
+			{
+				"short_code": "340078",
+				"name": "OU_安徽壹品慧科技有限公司无为分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021499",
+			"account_name": "杭州市公安局钱塘区分局C72021499",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "11330114MB1H97081M."
+		},
+		"site": [
+			{
+				"short_code": "330046",
+				"name": "OU_杭州中燃城市燃气发展有限公司大江东分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72018494",
+			"account_name": "宜昌市伍家岗区张巴适餐饮店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92420503MAE6LEQA8D"
+		},
+		"site": [
+			{
+				"short_code": "420040",
+				"name": "OU_宜昌中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019593",
+			"account_name": "广西启升贸易有限公司1",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "YYZZ91450102MA5QKTAX1X"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317668",
+			"account_name": "梁天生",
+			"cate1": "批发户",
+			"cate2": "",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000098",
+			"CUC": "450481198710050038"
+		},
+		"site": [
+			{
+				"short_code": "450015",
+				"name": "OU_岑溪市恒兴天然气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019343",
+			"account_name": "S宜昌市猇亭区再回楼东北饺子馆",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "S92420505MA4A0FRR75"
+		},
+		"site": [
+			{
+				"short_code": "420040",
+				"name": "OU_宜昌中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71941210",
+			"account_name": "江苏聚衣网络科技有限公司",
+			"cate1": "工业户",
+			"cate2": "区域内",
+			"cate3": "普通工业户",
+			"cate4": "中型工业户",
+			"cate5": "",
+			"custgroup": "C00027409",
+			"CUC": "91320116MA1MQE3K1H"
+		},
+		"site": [
+			{
+				"short_code": "320001",
+				"name": "OU_南京中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71995628",
+			"account_name": "淮南建发住房融资担保有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91340400485322496202"
+		},
+		"site": [
+			{
+				"short_code": "340014",
+				"name": "OU_淮南中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72020511",
+			"account_name": "山南新区觅野餐饮店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "92340400MAE7JFJ8XM"
+		},
+		"site": [
+			{
+				"short_code": "340014",
+				"name": "OU_淮南中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019075",
+			"account_name": "李泽朋-谢家集区橡胶厂家属房",
+			"cate1": "其他户",
+			"cate2": "区域内",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000089",
+			"CUC": "202420203477994"
+		},
+		"site": [
+			{
+				"short_code": "340014",
+				"name": "OU_淮南中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317670",
+			"account_name": "寿县住房和城乡建设局",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "12144001040011863"
+		},
+		"site": [
+			{
+				"short_code": "340003",
+				"name": "OU_寿县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72017528",
+			"account_name": "南陵县强森酒店管理有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "91340223MADXH56K9L"
+		},
+		"site": [
+			{
+				"short_code": "340028",
+				"name": "OU_南陵中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71925641",
+			"account_name": "武当山交警大队",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "114203007674301616"
+		},
+		"site": [
+			{
+				"short_code": "420176",
+				"name": "OU_湖北壹品慧科技有限公司十堰武当山分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71998854",
+			"account_name": "徐丹2024",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "210403197711112124"
+		},
+		"site": [
+			{
+				"short_code": "210083",
+				"name": "OU_辽宁壹品慧科技有限公司抚顺分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72001556",
+			"account_name": "辽宁马淑玲律师事务所",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "31210000093205469J"
+		},
+		"site": [
+			{
+				"short_code": "210083",
+				"name": "OU_辽宁壹品慧科技有限公司抚顺分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72001241",
+			"account_name": "宁陵县中豫建设有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91411423MA47KT906G"
+		},
+		"site": [
+			{
+				"short_code": "410082",
+				"name": "OU_宁陵县中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71997126",
+			"account_name": "张晋朋",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "370829197701305635"
+		},
+		"site": [
+			{
+				"short_code": "370102",
+				"name": "OU_山东壹品慧电子商务有限公司济宁分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71940761",
+			"account_name": "中国人民银行肇源县支行",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "112306220019140153"
+		},
+		"site": [
+			{
+				"short_code": "230085",
+				"name": "OU_肇源中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72005100",
+			"account_name": "无为县状元车行",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92340225MA2NN36U9Q"
+		},
+		"site": [
+			{
+				"short_code": "340078",
+				"name": "OU_安徽壹品慧科技有限公司无为分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317303",
+			"account_name": "小弟弟土菜馆",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "854654654"
+		},
+		"site": [
+			{
+				"short_code": "330049",
+				"name": "OU_金华壹品慧生活科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317304",
+			"account_name": "盛和面馆",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "854654654165"
+		},
+		"site": [
+			{
+				"short_code": "330049",
+				"name": "OU_金华壹品慧生活科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317311",
+			"account_name": "农家木桶饭",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "8546465465"
+		},
+		"site": [
+			{
+				"short_code": "330049",
+				"name": "OU_金华壹品慧生活科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71941054",
+			"account_name": "广西宿小侠国际旅游行社有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91450102MACBYG083C"
+		},
+		"site": [
+			{
+				"short_code": "450075",
+				"name": "OU_广西壹品慧电子商务有限公司南宁分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317666",
+			"account_name": "黄桂财",
+			"cate1": "其他户",
+			"cate2": "区域内",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000089",
+			"CUC": "91441823199006235030"
+		},
+		"site": [
+			{
+				"short_code": "440011",
+				"name": "OU_阳山七拱中燃百江普华能源有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71996064",
+			"account_name": "金志伟.",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "210703197209223810"
+		},
+		"site": [
+			{
+				"short_code": "210012",
+				"name": "OU_锦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72004363",
+			"account_name": "曹庄一村经济合作社",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "N2130582MH11187850"
+		},
+		"site": [
+			{
+				"short_code": "130071",
+				"name": "OU_沙河市中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72003885",
+			"account_name": "郑锦武个人底店-经十二路西明华学府107号底店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "SFZ152632199008105114"
+		},
+		"site": [
+			{
+				"short_code": "150001",
+				"name": "OU_包头市燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019217",
+			"account_name": "佳木斯市郊区姐妹香香牛肉板面店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "煤改气商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000093",
+			"CUC": "92230811MACFJJKG62"
+		},
+		"site": [
+			{
+				"short_code": "230020",
+				"name": "OU_佳木斯中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72020156",
+			"account_name": "佳木斯领先未来商贸有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91230800MA1B040C8E"
+		},
+		"site": [
+			{
+				"short_code": "230020",
+				"name": "OU_佳木斯中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72018793",
+			"account_name": "河北华奥燃气有限公司2",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "煤改气商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000093",
+			"CUC": "91130922692063829K0"
+		},
+		"site": [
+			{
+				"short_code": "210008",
+				"name": "OU_盖州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72017685",
+			"account_name": "姜凤（商业）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "210881199212112285"
+		},
+		"site": [
+			{
+				"short_code": "210008",
+				"name": "OU_盖州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72020847",
+			"account_name": "无为市赵开胜早点店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92340225MA8NP7NN2J"
+		},
+		"site": [
+			{
+				"short_code": "340078",
+				"name": "OU_安徽壹品慧科技有限公司无为分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72020824",
+			"account_name": "沈如意（无城镇岸上玫瑰15幢S15室）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "34262319850915751501"
+		},
+		"site": [
+			{
+				"short_code": "340078",
+				"name": "OU_安徽壹品慧科技有限公司无为分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72012488",
+			"account_name": "SSSS湖北宜碳新能源科技有限公司",
+			"cate1": "工业户",
+			"cate2": "区域外",
+			"cate3": "普通工业户",
+			"cate4": "大型工业户",
+			"cate5": "",
+			"custgroup": "C00000101",
+			"CUC": "91420503MA8YXUJK4A"
+		},
+		"site": [
+			{
+				"short_code": "420040",
+				"name": "OU_宜昌中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317585",
+			"account_name": "开化清水鱼",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "5156444814941"
+		},
+		"site": [
+			{
+				"short_code": "330049",
+				"name": "OU_金华壹品慧生活科技有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021705",
+			"account_name": "佳木斯市郊区延佶鲜味馆",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92230811MA7NBUXN0C"
+		},
+		"site": [
+			{
+				"short_code": "230020",
+				"name": "OU_佳木斯中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71948239",
+			"account_name": "盖州中燃城市燃气发展有限公司（场站）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "煤改气商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000093",
+			"CUC": "91210881686635210R0"
+		},
+		"site": [
+			{
+				"short_code": "210008",
+				"name": "OU_盖州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72015630",
+			"account_name": "无为县绿化设计服务中心",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "913402255545565102"
+		},
+		"site": [
+			{
+				"short_code": "340078",
+				"name": "OU_安徽壹品慧科技有限公司无为分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71847387",
+			"account_name": "宜昌市西陵区海禾酒店（个体工商户）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92420502MADK40CG8B"
+		},
+		"site": [
+			{
+				"short_code": "420040",
+				"name": "OU_宜昌中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021356",
+			"account_name": "豪味熟食店1",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "9234022IMAE68PRE69（1）"
+		},
+		"site": [
+			{
+				"short_code": "340001",
+				"name": "OU_芜湖湾沚中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317669",
+			"account_name": "合肥中瑞自动化仪表有限公司",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "913401227627922190"
+		},
+		"site": [
+			{
+				"short_code": "420062",
+				"name": "OU_富地红华动力（武汉）有限责任公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021074",
+			"account_name": "S宜昌市伍家岗区卢舒记小餐馆",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "S92420503MA4C8X1F81"
+		},
+		"site": [
+			{
+				"short_code": "420040",
+				"name": "OU_宜昌中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71943102",
+			"account_name": "六合区鼎品汇百货店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92320116MADCBUUN29"
+		},
+		"site": [
+			{
+				"short_code": "320001",
+				"name": "OU_南京中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72016569",
+			"account_name": "周伟（美食美味）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "320381198306116715"
+		},
+		"site": [
+			{
+				"short_code": "320014",
+				"name": "OU_新沂中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72017601",
+			"account_name": "中国人民解放军安徽省淮南市八公山区人民武装部",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "A1100000MK00109222"
+		},
+		"site": [
+			{
+				"short_code": "340014",
+				"name": "OU_淮南中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72010527",
+			"account_name": "曹光辉（日用品店）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "SFZ432321197011046795"
+		},
+		"site": [
+			{
+				"short_code": "430003",
+				"name": "OU_益阳中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021855",
+			"account_name": "廖慧（益阳市赫山区廖记面馆）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "SFZ430903198003250027"
+		},
+		"site": [
+			{
+				"short_code": "430003",
+				"name": "OU_益阳中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019475",
+			"account_name": "祁东中燃办公室（2）",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "5421454412"
+		},
+		"site": [
+			{
+				"short_code": "430012",
+				"name": "OU_祁东中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71947975",
+			"account_name": "肇源县肇源镇邵汇火锅店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92230622MAE029J332"
+		},
+		"site": [
+			{
+				"short_code": "230085",
+				"name": "OU_肇源中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72011402",
+			"account_name": "山西省怀仁市景茗房地产开发有限公司（崇仁御府食堂）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "142133197010210018"
+		},
+		"site": [
+			{
+				"short_code": "140023",
+				"name": "OU_怀仁中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72016635",
+			"account_name": "漳州市芗城区浦南镇双溪村民委员会",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "中型公福户",
+			"cate5": "",
+			"custgroup": "C00000103",
+			"CUC": "54350602772946373G"
+		},
+		"site": [
+			{
+				"short_code": "350025",
+				"name": "OU_漳州安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71963212",
+			"account_name": "樊礼华",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "622723199611090036"
+		},
+		"site": [
+			{
+				"short_code": "620005",
+				"name": "OU_灵台县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72016416",
+			"account_name": "漳州市芗城区旺梅餐饮店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92350602MADHLAYF77"
+		},
+		"site": [
+			{
+				"short_code": "350025",
+				"name": "OU_漳州安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71962890",
+			"account_name": "曹时佳-1",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "000922161"
+		},
+		"site": [
+			{
+				"short_code": "500014",
+				"name": "OU_重庆中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317687",
+			"account_name": "慈溪华润燃气有限公司",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "913302007394601953"
+		},
+		"site": [
+			{
+				"short_code": "100041",
+				"name": "OU_中燃宏大能源贸易有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019031",
+			"account_name": "漳州市芗城区新桥街道办事处黄青松快餐店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92350602MADURN964L"
+		},
+		"site": [
+			{
+				"short_code": "350025",
+				"name": "OU_漳州安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71247157",
+			"account_name": "新沂市沭东新城投资开发有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "ZY91320381670126956L"
+		},
+		"site": [
+			{
+				"short_code": "320014",
+				"name": "OU_新沂中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72005090",
+			"account_name": "蔡杰-2",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "001184343"
+		},
+		"site": [
+			{
+				"short_code": "500014",
+				"name": "OU_重庆中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317672",
+			"account_name": "赛罕区昭乌达南路街道办事处24年",
+			"cate1": "其他户",
+			"cate2": "区域内",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000089",
+			"CUC": "2132134545"
+		},
+		"site": [
+			{
+				"short_code": "150007",
+				"name": "OU_呼和浩特中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72020466",
+			"account_name": "漳州市龙文区月琴餐饮店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92350603MAE4XCJA1J"
+		},
+		"site": [
+			{
+				"short_code": "350025",
+				"name": "OU_漳州安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317562",
+			"account_name": "曲周中燃自用气",
+			"cate1": "其他户",
+			"cate2": "区域内",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000089",
+			"CUC": "91130435MA09M3QH87A"
+		},
+		"site": [
+			{
+				"short_code": "130101",
+				"name": "OU_曲周县中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019900",
+			"account_name": "益阳市资阳区人民印刷厂家属区聂延林等",
+			"cate1": "其他户",
+			"cate2": "区域内",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000089",
+			"CUC": "SFZ432301195706181016"
+		},
+		"site": [
+			{
+				"short_code": "430003",
+				"name": "OU_益阳中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72001855",
+			"account_name": "山口生料粉店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "YY450521198808256121"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72020776",
+			"account_name": "肥乡中燃综合办公楼采暖非生产自用气",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "130432198809291526"
+		},
+		"site": [
+			{
+				"short_code": "130058",
+				"name": "OU_邯郸市肥乡区中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71991348",
+			"account_name": "闫凌锋",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "622723197002103815"
+		},
+		"site": [
+			{
+				"short_code": "620005",
+				"name": "OU_灵台县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019476",
+			"account_name": "祁东中燃宿舍（1）",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "5245145511"
+		},
+		"site": [
+			{
+				"short_code": "430012",
+				"name": "OU_祁东中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72009890",
+			"account_name": "威海恒茂全屋智能工程有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91371083MAE2DK2Y0F"
+		},
+		"site": [
+			{
+				"short_code": "370112",
+				"name": "OU_乳山中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71951800",
+			"account_name": "邱县天来笼包小吃店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92130430MACD00676H"
+		},
+		"site": [
+			{
+				"short_code": "130075",
+				"name": "OU_邱县中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71996788",
+			"account_name": "假日酒店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91350600597875941B"
+		},
+		"site": [
+			{
+				"short_code": "500014",
+				"name": "OU_重庆中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72018075",
+			"account_name": "洪绍伟（衡安国际城19号楼114商铺）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "342422197003164097"
+		},
+		"site": [
+			{
+				"short_code": "340003",
+				"name": "OU_寿县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019062",
+			"account_name": "吴铁钦（益阳高新区牛爸便利店）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "432321197902035870"
+		},
+		"site": [
+			{
+				"short_code": "430003",
+				"name": "OU_益阳中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72018757",
+			"account_name": "郭飞（李记牛杂馆）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "SFZ422228196408103658"
+		},
+		"site": [
+			{
+				"short_code": "420007",
+				"name": "OU_汉川中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72013136",
+			"account_name": "安徽共耕工程科技有限公司",
+			"cate1": "工业户",
+			"cate2": "区域内",
+			"cate3": "普通工业户",
+			"cate4": "大型工业户",
+			"cate5": "",
+			"custgroup": "C00000064",
+			"CUC": "91340826MAD1ATNK5N"
+		},
+		"site": [
+			{
+				"short_code": "340048",
+				"name": "OU_壹品慧生活科技有限公司宿松分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71914955",
+			"account_name": "灵台县七公烤吧",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92620822MA71J6J017I"
+		},
+		"site": [
+			{
+				"short_code": "620005",
+				"name": "OU_灵台县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019881",
+			"account_name": "汉王记（周淑餐饮店）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "SFZ421302199112262400"
+		},
+		"site": [
+			{
+				"short_code": "420023",
+				"name": "OU_随州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72013170",
+			"account_name": "婺源充装",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "煤改气商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000093",
+			"CUC": "362527198911191125"
+		},
+		"site": [
+			{
+				"short_code": "360004",
+				"name": "OU_宜黄县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71937255",
+			"account_name": "乳山吾星纤维有限公司锅炉房",
+			"cate1": "工业户",
+			"cate2": "区域内",
+			"cate3": "普通工业户",
+			"cate4": "中型工业户",
+			"cate5": "",
+			"custgroup": "C00027409",
+			"CUC": "91371083769742337"
+		},
+		"site": [
+			{
+				"short_code": "370112",
+				"name": "OU_乳山中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71003940",
+			"account_name": "恒大天悦小区24号楼、25号楼（威海市恒鑫置业有限公司）",
+			"cate1": "其他户",
+			"cate2": "区域内",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000089",
+			"CUC": "371083MA3P3YTF1F"
+		},
+		"site": [
+			{
+				"short_code": "370112",
+				"name": "OU_乳山中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021692",
+			"account_name": "蒲华明（B115商铺）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "511204197701045017"
+		},
+		"site": [
+			{
+				"short_code": "420043",
+				"name": "OU_云梦中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72015186",
+			"account_name": "内蒙古东环能源科技有限公司A",
+			"cate1": "批发户",
+			"cate2": "",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000098",
+			"CUC": "91150626MA0PT91C74A"
+		},
+		"site": [
+			{
+				"short_code": "150010",
+				"name": "OU_乌审中燃天然气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72017187",
+			"account_name": "乳山市绣.江南1#、3#、5-12#、15#(嘉泰置业）",
+			"cate1": "其他户",
+			"cate2": "区域内",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000089",
+			"CUC": "91371083090691035R"
+		},
+		"site": [
+			{
+				"short_code": "370112",
+				"name": "OU_乳山中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71991353",
+			"account_name": "贾永刚",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "622723199508263217"
+		},
+		"site": [
+			{
+				"short_code": "620005",
+				"name": "OU_灵台县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019485",
+			"account_name": "李烨",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "440902197704290057"
+		},
+		"site": [
+			{
+				"short_code": "440042",
+				"name": "OU_茂名中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71945825",
+			"account_name": "天门市公安局（武警荆州支队执勤三大队天门中队食堂）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "Q11429006011391529C"
+		},
+		"site": [
+			{
+				"short_code": "420026",
+				"name": "OU_天门中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C70977126",
+			"account_name": "汪 静",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "SFZ342201199003203822"
+		},
+		"site": [
+			{
+				"short_code": "340022",
+				"name": "OU_宿州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71811689",
+			"account_name": "宽甸满族自治县乐朋饭店厨房燃气管道工程",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92210624MADF5ATP87"
+		},
+		"site": [
+			{
+				"short_code": "210034",
+				"name": "OU_宽甸中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72016716",
+			"account_name": "乳山市禾拾蛋糕店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92371083MACGNQTUXW"
+		},
+		"site": [
+			{
+				"short_code": "370112",
+				"name": "OU_乳山中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72014550",
+			"account_name": "乳山市乳山口镇迎宾网具厂厨房",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92371083MA3JHE2L5H"
+		},
+		"site": [
+			{
+				"short_code": "370112",
+				"name": "OU_乳山中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72016792",
+			"account_name": "湖北华富百佳电子有限公司（食堂）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "9142092355050677964G"
+		},
+		"site": [
+			{
+				"short_code": "420043",
+				"name": "OU_云梦中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72013632",
+			"account_name": "乳山市邓治苓日用百货店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92371083MA3DBDB85M"
+		},
+		"site": [
+			{
+				"short_code": "370112",
+				"name": "OU_乳山中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317674",
+			"account_name": "河北方泽建筑工程集团有限公司",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "911309006892618323"
+		},
+		"site": [
+			{
+				"short_code": "440090",
+				"name": "OU_深圳市宏信商业保理有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72015291",
+			"account_name": "湖北华富百佳电子有限公司（宿舍）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91420923550677964G1"
+		},
+		"site": [
+			{
+				"short_code": "420043",
+				"name": "OU_云梦中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71870674",
+			"account_name": "灵台县利民房地产开发有限责任公司1",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91620822MA70MY8Q7H"
+		},
+		"site": [
+			{
+				"short_code": "620005",
+				"name": "OU_灵台县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71935999",
+			"account_name": "中国农业发展银行钦州市分行.",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "91450702283903954F"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71924787",
+			"account_name": "北京联港市政园林绿化有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "911101150854882008"
+		},
+		"site": [
+			{
+				"short_code": "110027",
+				"name": "OU_北京中燃翔科油气技术有限公司大兴分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021810",
+			"account_name": "叶红艳",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "230225198204193842"
+		},
+		"site": [
+			{
+				"short_code": "150010",
+				"name": "OU_乌审中燃天然气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019477",
+			"account_name": "祁东中燃宿舍（2）",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "254514210"
+		},
+		"site": [
+			{
+				"short_code": "430012",
+				"name": "OU_祁东中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019813",
+			"account_name": "益阳市赫山区建发幼儿园",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "12430903MB1T1892XQ"
+		},
+		"site": [
+			{
+				"short_code": "430003",
+				"name": "OU_益阳中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317676",
+			"account_name": "沧州市运河区瑞勤建材经营部",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "92130903MA0F5WYG29"
+		},
+		"site": [
+			{
+				"short_code": "440090",
+				"name": "OU_深圳市宏信商业保理有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317678",
+			"account_name": "中国人民武装警察部队第一机动总队交通第一支队保障部",
+			"cate1": "其他户",
+			"cate2": "区域内",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000089",
+			"CUC": "344172926008"
+		},
+		"site": [
+			{
+				"short_code": "210089",
+				"name": "OU_辽宁壹品慧科技有限公司庄河分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72011870",
+			"account_name": "爷叔海味猪脚粉",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "YY450702198111168414"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317692",
+			"account_name": "岳阳华润燃气有限公司岳阳县分公司",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "914306005576222027"
+		},
+		"site": [
+			{
+				"short_code": "100041",
+				"name": "OU_中燃宏大能源贸易有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021674",
+			"account_name": "陈艳华（B106商铺）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "429004197803071341"
+		},
+		"site": [
+			{
+				"short_code": "420043",
+				"name": "OU_云梦中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71660581",
+			"account_name": "十堰林兴置业有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91420300679784090N"
+		},
+		"site": [
+			{
+				"short_code": "420020",
+				"name": "OU_十堰中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72005233",
+			"account_name": "陆师傅烧腊店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "YY452101198503240326"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72020632",
+			"account_name": "湖南省网岭监狱.",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "1430000444880600"
+		},
+		"site": [
+			{
+				"short_code": "430006",
+				"name": "OU_攸县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317675",
+			"account_name": "霸州市永通金属塑料制品有限公司",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "911310817468727374"
+		},
+		"site": [
+			{
+				"short_code": "440090",
+				"name": "OU_深圳市宏信商业保理有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71943577",
+			"account_name": "大拿东北人家铁锅炖店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "230127198709211628"
+		},
+		"site": [
+			{
+				"short_code": "230009",
+				"name": "OU_木兰县中庆清洁能源有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72013071",
+			"account_name": "朱朝霞",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "420302197012200025"
+		},
+		"site": [
+			{
+				"short_code": "420020",
+				"name": "OU_十堰中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71963207",
+			"account_name": "赵会巧",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "622723197509061087"
+		},
+		"site": [
+			{
+				"short_code": "620005",
+				"name": "OU_灵台县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71943794",
+			"account_name": "阿甘婆麻辣烫总店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "230127197803263016"
+		},
+		"site": [
+			{
+				"short_code": "230009",
+				"name": "OU_木兰县中庆清洁能源有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72022420",
+			"account_name": "济南章丘齐膳居快餐店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "9237018MAE0QUBX6N"
+		},
+		"site": [
+			{
+				"short_code": "370022",
+				"name": "OU_济南中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72008992",
+			"account_name": "乳山市乳山寨镇人民政府厨房",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "11371083004367176H"
+		},
+		"site": [
+			{
+				"short_code": "370112",
+				"name": "OU_乳山中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72017345",
+			"account_name": "威海钰德环保科技有限公司车间",
+			"cate1": "工业户",
+			"cate2": "区域内",
+			"cate3": "普通工业户",
+			"cate4": "小型工业户",
+			"cate5": "",
+			"custgroup": "C00000081",
+			"CUC": "91371083757496052"
+		},
+		"site": [
+			{
+				"short_code": "370112",
+				"name": "OU_乳山中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72013361",
+			"account_name": "边亮亮",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91150900353073715G."
+		},
+		"site": [
+			{
+				"short_code": "150049",
+				"name": "OU_乌兰察布市创能清洁能源有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72003754",
+			"account_name": "渝味江湖",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "YY231121198303304616"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71950100",
+			"account_name": "宿州市永云轩食品有限公司（食堂））",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91341302MA2UWEY4L"
+		},
+		"site": [
+			{
+				"short_code": "340022",
+				"name": "OU_宿州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71991335",
+			"account_name": "周麦琴",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "622723197904283229"
+		},
+		"site": [
+			{
+				"short_code": "620005",
+				"name": "OU_灵台县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71994595",
+			"account_name": "凌海中燃城市燃气发展有限公司1",
+			"cate1": "工业户",
+			"cate2": "区域外",
+			"cate3": "普通工业户",
+			"cate4": "中型工业户",
+			"cate5": "",
+			"custgroup": "C00027410",
+			"CUC": "91210700059807829N"
+		},
+		"site": [
+			{
+				"short_code": "210030",
+				"name": "OU_凌海中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72017637",
+			"account_name": "程家二巷34至59号永丰小区5栋5号至5栋13号城东北路398号至438号双号",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "1417414252752"
+		},
+		"site": [
+			{
+				"short_code": "350021",
+				"name": "OU_福鼎市安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021684",
+			"account_name": "莘县欣丑饭店",
+			"cate1": "商业户",
+			"cate2": "区域外",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000068",
+			"CUC": "92371522MA7LD5CROC"
+		},
+		"site": [
+			{
+				"short_code": "370050",
+				"name": "OU_莘县中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72001737",
+			"account_name": "隆江猪脚饭（人和店）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "YY452502197006156637"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72020480",
+			"account_name": "张南南（万像奥莱菜园子）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "342225198810272011"
+		},
+		"site": [
+			{
+				"short_code": "340025",
+				"name": "OU_泗县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71962859",
+			"account_name": "钦州市全力互动俱乐部有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91450702MADEX23N65"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317679",
+			"account_name": "河北华通燃气设备有限公司.",
+			"cate1": "商业户",
+			"cate2": "区域外",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000078",
+			"CUC": "91130492091112568G."
+		},
+		"site": [
+			{
+				"short_code": "440110",
+				"name": "OU_广东壹品慧科技有限公司茂名分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71963210",
+			"account_name": "李景皓",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "622723199709100018"
+		},
+		"site": [
+			{
+				"short_code": "620005",
+				"name": "OU_灵台县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71003961",
+			"account_name": "恒大天悦小区26号楼（威海市恒鑫置业有限公司）",
+			"cate1": "其他户",
+			"cate2": "区域内",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000089",
+			"CUC": "91371083MA3P3"
+		},
+		"site": [
+			{
+				"short_code": "370112",
+				"name": "OU_乳山中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C56584724",
+			"account_name": "金谷之园5#6#",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "3132113256544"
+		},
+		"site": [
+			{
+				"short_code": "370112",
+				"name": "OU_乳山中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71991350",
+			"account_name": "边小霞",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "622723198410190721"
+		},
+		"site": [
+			{
+				"short_code": "620005",
+				"name": "OU_灵台县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317690",
+			"account_name": "平江华润燃气有限公司",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "91430626682802843E"
+		},
+		"site": [
+			{
+				"short_code": "100041",
+				"name": "OU_中燃宏大能源贸易有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72013340",
+			"account_name": "云梦蒲阳水街商业运营管理有限公司(B057)",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "B057"
+		},
+		"site": [
+			{
+				"short_code": "420043",
+				"name": "OU_云梦中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019473",
+			"account_name": "祁东中燃办公室1",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "430426198701012451"
+		},
+		"site": [
+			{
+				"short_code": "430012",
+				"name": "OU_祁东中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72017181",
+			"account_name": "王 聪（泊啤汇）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "SFZ342201199208101045"
+		},
+		"site": [
+			{
+				"short_code": "340022",
+				"name": "OU_宿州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71962880",
+			"account_name": "陈启均-1",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "000016218"
+		},
+		"site": [
+			{
+				"short_code": "500014",
+				"name": "OU_重庆中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72020522",
+			"account_name": "文登区泰浩华府36-6号（栾红光）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "370632197108150"
+		},
+		"site": [
+			{
+				"short_code": "370026",
+				"name": "OU_威海市文登区中燃能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71991343",
+			"account_name": "王凤1",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "622723199410153642"
+		},
+		"site": [
+			{
+				"short_code": "620005",
+				"name": "OU_灵台县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72014358",
+			"account_name": "云梦蒲阳水街商业运营管理有限公司(B115)",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "B11591420923MA4F2Q8942"
+		},
+		"site": [
+			{
+				"short_code": "420043",
+				"name": "OU_云梦中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72001019",
+			"account_name": "禾嘉欢肠粉粥",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "YY450703198711012719"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317673",
+			"account_name": "茂南区千式图文设计经营部",
+			"cate1": "居民户",
+			"cate2": "区域内",
+			"cate3": "普通居民户",
+			"cate4": "",
+			"cate5": "第一档燃气",
+			"custgroup": "C00000069",
+			"CUC": "92440902MA56QE9Q1N"
+		},
+		"site": [
+			{
+				"short_code": "440110",
+				"name": "OU_广东壹品慧科技有限公司茂名分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019691",
+			"account_name": "张丽商业户",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "612725198212111827C"
+		},
+		"site": [
+			{
+				"short_code": "150010",
+				"name": "OU_乌审中燃天然气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317677",
+			"account_name": "玉泉区鄂尔多斯路街道办事处24年",
+			"cate1": "其他户",
+			"cate2": "区域内",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000089",
+			"CUC": "234325654"
+		},
+		"site": [
+			{
+				"short_code": "150007",
+				"name": "OU_呼和浩特中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72014360",
+			"account_name": "云梦蒲阳水街商业运营管理有限公司(A061)",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "B06191420923MA4F2Q8942"
+		},
+		"site": [
+			{
+				"short_code": "420043",
+				"name": "OU_云梦中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72020525",
+			"account_name": "程小琴（三思女装店）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "92630123MADPDP5UXG"
+		},
+		"site": [
+			{
+				"short_code": "630002",
+				"name": "OU_湟源中燃能源有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71910619",
+			"account_name": "宿州市埇桥区沱河 街道宿东社区居民委员会",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "S342201197208260610"
+		},
+		"site": [
+			{
+				"short_code": "340022",
+				"name": "OU_宿州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72000516",
+			"account_name": "曹佳",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "000809922"
+		},
+		"site": [
+			{
+				"short_code": "500014",
+				"name": "OU_重庆中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72020141",
+			"account_name": "静宁县伊品羊肉泡馍餐厅",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92620826MAE66CLT47"
+		},
+		"site": [
+			{
+				"short_code": "620007",
+				"name": "OU_静宁巨能燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021662",
+			"account_name": "王成梁（B104商铺）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "330124198609180718"
+		},
+		"site": [
+			{
+				"short_code": "420043",
+				"name": "OU_云梦中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71822478",
+			"account_name": "军分区机关食堂和9户公寓燃气设施入户工程",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "45285324520145521455"
+		},
+		"site": [
+			{
+				"short_code": "640001",
+				"name": "OU_固原中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72014513",
+			"account_name": "漳州宾馆有限公司（一职校第一食堂）",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "煤改气公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000096",
+			"CUC": "YYZZ91350600156502744R"
+		},
+		"site": [
+			{
+				"short_code": "350025",
+				"name": "OU_漳州安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72002109",
+			"account_name": "陈超明-1",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "001308210"
+		},
+		"site": [
+			{
+				"short_code": "500014",
+				"name": "OU_重庆中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317694",
+			"account_name": "赛维精密科技（广东）有限公司",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "914419007962524997"
+		},
+		"site": [
+			{
+				"short_code": "100014",
+				"name": "OU_中燃能源管理（深圳）有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72015742",
+			"account_name": "饶维利商铺",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "421182198212200035"
+		},
+		"site": [
+			{
+				"short_code": "420031",
+				"name": "OU_武穴赛洛天然气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71815763",
+			"account_name": "江苏张家港农村商业银行股份有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91320000732252238K"
+		},
+		"site": [
+			{
+				"short_code": "320024",
+				"name": "OU_邳州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021357",
+			"account_name": "固原市人民医院职工餐厅二楼分户改造燃气工程",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "642224198306071223"
+		},
+		"site": [
+			{
+				"short_code": "640001",
+				"name": "OU_固原中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72017512",
+			"account_name": "漳州市芗城区小豆丁家政服务中心",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "92350602MA32CX966A"
+		},
+		"site": [
+			{
+				"short_code": "350025",
+				"name": "OU_漳州安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72016524",
+			"account_name": "福鼎市恩典面馆",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92350982MA33NE8L1J"
+		},
+		"site": [
+			{
+				"short_code": "350021",
+				"name": "OU_福鼎市安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72005076",
+			"account_name": "蔡杰-1",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "001148211"
+		},
+		"site": [
+			{
+				"short_code": "500014",
+				"name": "OU_重庆中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71999382",
+			"account_name": "钦州市钦南区长荣庞记餐饮店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "YY450721198212175129"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317696",
+			"account_name": "惠州拓邦电气技术有限公司",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "91441300586300616N"
+		},
+		"site": [
+			{
+				"short_code": "100014",
+				"name": "OU_中燃能源管理（深圳）有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72012677",
+			"account_name": "云梦蒲阳水街商业运营管理有限公司(B083)",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "B08391420923MA4F2Q8942"
+		},
+		"site": [
+			{
+				"short_code": "420043",
+				"name": "OU_云梦中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317680",
+			"account_name": "张家口市万全区城市管理综合行政执法局",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "11130729MB15641073"
+		},
+		"site": [
+			{
+				"short_code": "130048",
+				"name": "OU_张家口万全中燃建业能源发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71780943",
+			"account_name": "绵阳市游仙区花果山山湾农庄",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "中型商业户",
+			"cate5": "",
+			"custgroup": "C00000102",
+			"CUC": "92510704MA68WRGJ0U"
+		},
+		"site": [
+			{
+				"short_code": "510010",
+				"name": "OU_绵阳市中燃金泰燃气有限公司忠兴分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71994985",
+			"account_name": "于妈妈包子铺（原利通山货）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "220621198204280211"
+		},
+		"site": [
+			{
+				"short_code": "220022",
+				"name": "OU_抚松中森燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71247164",
+			"account_name": "新沂市沭东新城投资开发有限公司C71247164",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "QY91320381670126956L-1"
+		},
+		"site": [
+			{
+				"short_code": "320014",
+				"name": "OU_新沂中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72010032",
+			"account_name": "福鼎市耐品小吃店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92350982MAE4WUYU43"
+		},
+		"site": [
+			{
+				"short_code": "350021",
+				"name": "OU_福鼎市安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021754",
+			"account_name": "张梦玲（A061商铺）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "42222619790728001X"
+		},
+		"site": [
+			{
+				"short_code": "420043",
+				"name": "OU_云梦中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71991331",
+			"account_name": "李卓隆",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "622723200302060014"
+		},
+		"site": [
+			{
+				"short_code": "620005",
+				"name": "OU_灵台县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71980808",
+			"account_name": "石家庄市藁城区第三中学",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "12130182402041737A"
+		},
+		"site": [
+			{
+				"short_code": "130010",
+				"name": "OU_石家庄市藁城区中燃翔科燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72012672",
+			"account_name": "云梦蒲阳水街商业运营管理有限公司(A080)",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "A08091420923MA4F2Q8942"
+		},
+		"site": [
+			{
+				"short_code": "420043",
+				"name": "OU_云梦中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71945841",
+			"account_name": "天门市公安局（天门市公安局法制支队食堂）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "F11429006011391529C"
+		},
+		"site": [
+			{
+				"short_code": "420026",
+				"name": "OU_天门中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72006324",
+			"account_name": "莫三隆江猪脚饭",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "YY440924197308151248"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72004210",
+			"account_name": "桂林米粉杀猪粉",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "YY450481199004190812"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317688",
+			"account_name": "湖南省衡阳市雁峰区岳屏镇文昌村村民委员会",
+			"cate1": "其他户",
+			"cate2": "区域内",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000089",
+			"CUC": "54430406ME1065560P"
+		},
+		"site": [
+			{
+				"short_code": "430039",
+				"name": "OU_衡阳中燃能源有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72002646",
+			"account_name": "早之肴早餐",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "YY450702198707070370"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72018516",
+			"account_name": "漳州市芗城区康卫餐厅",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "92350602MA3064C7XB"
+		},
+		"site": [
+			{
+				"short_code": "350025",
+				"name": "OU_漳州安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72010667",
+			"account_name": "康奇",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "230828198809288029"
+		},
+		"site": [
+			{
+				"short_code": "230032",
+				"name": "OU_汤原中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71963193",
+			"account_name": "姚亚灵",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "62272319950910172X"
+		},
+		"site": [
+			{
+				"short_code": "620005",
+				"name": "OU_灵台县中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C70455073",
+			"account_name": "烟草公司物流配送中心职工食堂燃气管道工程",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "9164040022840425E"
+		},
+		"site": [
+			{
+				"short_code": "640001",
+				"name": "OU_固原中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72012031",
+			"account_name": "龙岩市新罗区曹溪悠得鲜餐饮店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92350802MAE80D160P"
+		},
+		"site": [
+			{
+				"short_code": "350024",
+				"name": "OU_龙岩市昌宁燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71945751",
+			"account_name": "天门市公安局（天门市拘留所食堂)",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "Z11429006011391529C"
+		},
+		"site": [
+			{
+				"short_code": "420026",
+				"name": "OU_天门中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72010071",
+			"account_name": "福鼎聚食荟餐饮管理有限公司星火分店",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "91350982MAE5WENQ9R"
+		},
+		"site": [
+			{
+				"short_code": "350021",
+				"name": "OU_福鼎市安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72001848",
+			"account_name": "山东小伙煎饼果子",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "YY342423197403033762"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71790639",
+			"account_name": "十堰市张湾区黄龙镇人民政府",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "中型商业户",
+			"cate5": "",
+			"custgroup": "C00000102",
+			"CUC": "11420303011081694Y"
+		},
+		"site": [
+			{
+				"short_code": "420020",
+				"name": "OU_十堰中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72000993",
+			"account_name": "王显勇",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "510221197303134714"
+		},
+		"site": [
+			{
+				"short_code": "500014",
+				"name": "OU_重庆中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71997882",
+			"account_name": "北部湾职业技术学校",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "12450700771720970C"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71811301",
+			"account_name": "鹿山府",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "500102199510205397"
+		},
+		"site": [
+			{
+				"short_code": "500014",
+				"name": "OU_重庆中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72016601",
+			"account_name": "唐山湾三友旅行社有限公司",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "13022519730430461X"
+		},
+		"site": [
+			{
+				"short_code": "130105",
+				"name": "OU_唐山南堡中燃燃气有限公司大清河分公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72003475",
+			"account_name": "裕隆苑C6-1-104门市（赵翠翠",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "220621198306141829"
+		},
+		"site": [
+			{
+				"short_code": "220022",
+				"name": "OU_抚松中森燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72001175",
+			"account_name": "安心之家午托",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "YY450521197610215573"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317684",
+			"account_name": "甘肃天盛中工建设工程有限公司",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "91620800MA747WBH8F"
+		},
+		"site": [
+			{
+				"short_code": "130055",
+				"name": "OU_河北华通燃气设备有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C71810868",
+			"account_name": "重庆荣品房地产开发有限公司-1",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "510203197505260011"
+		},
+		"site": [
+			{
+				"short_code": "500014",
+				"name": "OU_重庆中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72020519",
+			"account_name": "王利军商业户",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "622301198301217091"
+		},
+		"site": [
+			{
+				"short_code": "150010",
+				"name": "OU_乌审中燃天然气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72013894",
+			"account_name": "漳州市意难忘娱乐有限公司",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小型商业户",
+			"cate5": "",
+			"custgroup": "C00000082",
+			"CUC": "913506025575632306"
+		},
+		"site": [
+			{
+				"short_code": "350025",
+				"name": "OU_漳州安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72000990",
+			"account_name": "粥大师",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "YY450521198710057845"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72003612",
+			"account_name": "丽轩美容",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "YY230903198702191436"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C00317683",
+			"account_name": "湖北瑞康建设工程有限公司",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "91420113MA4K4TRM5H"
+		},
+		"site": [
+			{
+				"short_code": "130055",
+				"name": "OU_河北华通燃气设备有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72019584",
+			"account_name": "武穴市杨记家常菜",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "92421182MABR3Q8C8W"
+		},
+		"site": [
+			{
+				"short_code": "420031",
+				"name": "OU_武穴赛洛天然气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72013876",
+			"account_name": "云梦蒲阳水街商业运营管理有限公司(B074)",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "B07491420923MA4F2Q8942"
+		},
+		"site": [
+			{
+				"short_code": "420043",
+				"name": "OU_云梦中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72021647",
+			"account_name": "卢程（祥云湾B050商铺）（燃气）",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "421125198906211719-D"
+		},
+		"site": [
+			{
+				"short_code": "420043",
+				"name": "OU_云梦中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72001722",
+			"account_name": "蜀与麻辣烫",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "YY372401197004027821"
+		},
+		"site": [
+			{
+				"short_code": "450020",
+				"name": "OU_钦州中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72013066",
+			"account_name": "漳州市凌波康养托育服务有限公司",
+			"cate1": "公福户",
+			"cate2": "区域内",
+			"cate3": "普通公福户",
+			"cate4": "小型公福户",
+			"cate5": "",
+			"custgroup": "C00000095",
+			"CUC": "91350600MA346TACXL-1"
+		},
+		"site": [
+			{
+				"short_code": "350025",
+				"name": "OU_漳州安然燃气有限公司",
+				"status": "有效"
+			}
+		]
+	},
+	{
+		"customer": {
+			"status": "有效",
+			"account_number": "C72018367",
+			"account_name": "罗利萍",
+			"cate1": "商业户",
+			"cate2": "区域内",
+			"cate3": "普通商业户",
+			"cate4": "小微型商业户",
+			"cate5": "",
+			"custgroup": "C00000083",
+			"CUC": "001088162"
+		},
+		"site": [
+			{
+				"short_code": "500014",
+				"name": "OU_重庆中燃城市燃气发展有限公司",
+				"status": "有效"
+			}
+		]
+	}
+]

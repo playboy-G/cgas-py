@@ -1,0 +1,23 @@
+[
+  {
+		"customer": {
+			"status": "有效",
+			"account_number": "C00316924",
+			"account_name": "南京地龙非开挖工程技术有限公司",
+			"cate1": "其他户",
+			"cate2": "区域外",
+			"cate3": "",
+			"cate4": "",
+			"cate5": "",
+			"custgroup": "C00000074",
+			"CUC": "9132010224999168X1"
+		},
+		"site": [
+			{
+				"short_code": "440133",
+				"name": "OU_深圳市中燃燃易通信息科技有限公司",
+				"status": "有效"
+			}
+		]
+	}
+]
