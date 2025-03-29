@@ -25,7 +25,7 @@ def get_depart(dept_id):
         "batch": "", # 批次
         "batchHistory": "", # 批次历史
         "startTime": "2000/01/01 00:00:00",
-        "endTime": "2024/12/31 23:59:59",
+        "endTime": "2025/12/31 23:59:59",
         "pageNumber": 0, # 页数
         "pageSize": 1
     })
@@ -65,7 +65,7 @@ def get_depart(dept_id):
     loop_biz_data["batch"] = batch
     loop_biz_data["batchHistory"] = batchHistory
     loop_biz_data["startTime"] = "2000/01/01 00:00:00"
-    loop_biz_data["endTime"] = "2024/12/31 23:59:59"
+    loop_biz_data["endTime"] = "2025/12/31 23:59:59"
     loop_biz_data["pageSize"] = 50
 
     hit_depart = []
@@ -130,7 +130,7 @@ def update_depart_base(file_path):
 
 
 if __name__ == '__main__':
-    get_depart("209780")
+    get_depart("214835")
     # update_depart_base('../files/depart.xlsx')
 
 

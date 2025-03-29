@@ -20,3 +20,12 @@ class DataSyncCode:
     project = 'zr_projectManagement_project_bip_project'
     # 成本中心
     costcenter = 'zr_ebs_costCenter_kk_costCenter'
+    # 物料分配组织
+    materialCodeAlloca = 'mdm_materialCodeAlloca_bip_materialCodeAlloca'
+    # 会计主体
+    accountEntry = 'ebs_accountEntry_bip_accountEntry'
+    # 管理维度段
+    coa8 = 'zr_ebs_customArchiveMaintenance_manageDimensionsPlates_bip_status'
+
+    # 物料分配组织
+    product = 'mdm_materialCodeAlloca_bip_materialCodeAlloca'

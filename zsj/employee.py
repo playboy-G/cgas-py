@@ -146,9 +146,9 @@ def get_mdm_staff_job(startDate, endDate, pageNumber, empId):
             if "data" in responseData:
                 resData = json.loads(Base64Utils.base64_decode(responseData["data"]))
                 result = json.dumps(resData, ensure_ascii=False)
-                fp = open('任职数据.json', 'w')
-                print(json.dumps(resData, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': ')),
-                      file=fp)
+                # fp = open('任职数据.json', 'w')
+                # print(json.dumps(resData, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': ')),
+                #       file=fp)
                 print('第二次请求数据入参：' + json.dumps(qqmdmryxx_json))
                 print('第二次请求数据响应：' + Fore.RED, result)
             else:
@@ -285,7 +285,7 @@ def put_part_time_by_file(file_path):
 
 
 if __name__ == '__main__':
-    # get_mdm_staff("10096680")
-    get_mdm_staff_job("2000-01-01", "2025-12-31", 0, "10096680")
+    get_mdm_staff("10159553")
+    # get_mdm_staff_job("2000-01-01", "2025-12-31", 0, "10015621")
     # get_employee_by_api("ZSJWH")
     # put_part_time_by_file("../files/pt.xlsx")

@@ -169,7 +169,7 @@ def supplier_adapter_by_excel(file_path, sheet_name=None):
             vendor["vendorId"] = [row[0] for row in vendor_id_rows][0]
 
         # vendor["orgIds"] = vendor_ou_ids
-        vendor["orgIds"] = ['2131082568429207561','2131873787304476674']
+        vendor["orgIds"] = ['2115444446490263553','2117725684004552712']
         vendor_list.append(vendor)
 
     print(vendor_list)
@@ -249,9 +249,8 @@ def supplier_adapter_org(vendor_codes):
     database.close()
 
 
-# 批量添加/更新供应商银行
-# 开户名 网点名称 联行号 币种
-def supplier_bank():
+# 同步供应商
+def sync_supplier():
 
 
 
@@ -260,9 +259,9 @@ def supplier_bank():
 
 if __name__ == '__main__':
     # 查询EBS供应商信息
-    get_supplier('S00165603')
+    # get_supplier('S00188258')
     # 查询EBS数据分配组织
-    # supplier_adapter_batch(['S00185168'])
+    supplier_adapter_batch(['S00005466'])
     # 按照供应商明细表分配组织
     # supplier_adapter_by_excel("../files/CUX.xlsx")
     # 查询供应商查询组织id

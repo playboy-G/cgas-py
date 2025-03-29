@@ -252,11 +252,11 @@ def sync_customer(cust_no):
 
 
 if __name__ == '__main__':
-    # get_customer("C72034263")
+    # get_customer("C69570250")
     # print(json.dumps(get_customer("370049")))
-    # customer_ou(['450001'])
+    # customer_ou(['100066'])
     # customer_adapter_from_file()
-    # customer_adapter_batch([])
+    # customer_adapter_batch(['C00312860'])
 
-    sync_customer('C72035349')
+    sync_customer('C62443869')
 

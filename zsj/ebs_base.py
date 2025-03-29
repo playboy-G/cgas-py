@@ -153,14 +153,16 @@ def get_org_bank(org_code):
 
     # return json.loads(org_bank_data)
 
+# 企业银行账户增量同步
+
 
 
 if __name__ == '__main__':
     # 按日期查
     # get_assets(date='2024-10-01')
     # 具体资产编码查
-    # get_assets(asset_id='10432462', book_type_code='CG_FA_350003')
+    get_assets(asset_id='10110333', book_type_code='CG_FA_320024')
     # 段值 1-公司段 2-部门段 3-科目段 4-子目段 5-产品段 6-项目端 7-往来段 8-管理维度段 9-备用段
-    get_coa(2, '2024-12-30', '2025-01-02')
+    # get_coa(8, '2025-03-25', '2025-03-31')
     # 企业银行账户
-    # get_org_bank("320001")
+    # get_org_bank("230039")
