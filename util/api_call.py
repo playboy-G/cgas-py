@@ -46,6 +46,14 @@ class ApiCall:
         # print('接口: {}, 返回状态码: {}响应报文为: {}'.format(url, response.status_code, response.text))
         return response.text
 
+    def http_post_headers(self, url, headers, payload):
+        json_payload = ""
+        if payload is not None:
+            json_payload = json.dumps(payload)
+        response = requests.post(url, data=json_payload, headers=headers)
+        # print('接口: {}, 返回状态码: {}响应报文为: {}'.format(url, response.status_code, response.text))
+        return response.text
+
     def call_api(self, url, payload):
         api_url = '{}{}{}?access_token={}&tenantId=npuaqm6k'.format(self.host, self.app_name, url, self.access_token())
         hits = self.http_post(api_url, payload)
@@ -64,6 +72,10 @@ class ApiCall:
     def call_api_get_with_token(self, url, token, params):
         api_url = "{}{}{}?access_token={}&tenantId=npuaqm6k".format(self.host, self.app_name, url, token)
         response = requests.get(api_url, params=params)
+        return response.text
+
+    def call_api_delete(self, url, headers, data):
+        response = requests.session().delete(url, headers=headers, data=data)
         return response.text
 
 if __name__ == '__main__':

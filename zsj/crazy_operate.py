@@ -7,7 +7,7 @@ from util.api_call import ApiCall
 from util.mysql_ssh_utils import MySqlSSH
 from zsj.common import get_soa_auth
 
-yht_access_token = 'bttOUJ2SHRiYXNTSXRtK2xCTlFwQ0VHVUV5VUh6RTlsdlFXYmI4ZHVzbjF1dFVnWXpPUHZaZWlQSmZoQ3BZbEk2U19fZnNzY2JpcC5jaGluYWdhc2hvbGRpbmdzLmNvbQ..__3f0ae99b806daf00524db4b9cf490e92_1743046237899TGTGdccore1iuap-apcom-workbenchea3dafefYT'
+yht_access_token = 'bttUWY0cC8yM29yY2VMd21BdzdYS0hUbU51R0ZYQzR0T3dDTlBoZlJVZFNlY054emtOOFV1SGlKSURmNWVlU1FIVF9fZnNzY2JpcC5jaGluYWdhc2hvbGRpbmdzLmNvbQ..__3f0ae99b806daf00524db4b9cf490e92_1743578553930TGTGdccore1iuap-apcom-workbench363e7669YT'
 
 # 删除待办
 def delete_todo(delete_key):
@@ -87,7 +87,55 @@ def delete_oa_todo(business_key):
 
     db.close()
 
+#系统问题导致收款单卡在审批中的处理方案
+def fault_unsubmit_rec(receive_codes):
+    database = MySqlSSH()
+    api_call = ApiCall()
+
+    # 05f6c7bd181e60ea15d6a0ed575abd09b8db8e83
+    yht_access_token = 'bttK2pLNXZRV3F5NTlVYnI0RUd6OHFKK0ZyQWNKUkZNWFFLMHc1MHY5cXR1RzRDT21jWkplWmZyVytJMUhWajRGOV9fZnNzY2JpcC5jaGluYWdhc2hvbGRpbmdzLmNvbQ..__3f0ae99b806daf00524db4b9cf490e92_1743563337384TGTGdccore1iuap-apcom-workbenched5a182dYT'
+    sql_base = "select id from fiearapbill.ar_collection_h where bill_code = '{}'"
+    del_sql_base = "select id_ from iuap_apcom_workflow.act_hi_procinst where business_key_ = '{}'"
+    for receive_code in receive_codes:
+        sql = sql_base.format(receive_code)
+        rec_id_rows = database.fetch_all(sql)
+        if rec_id_rows:
+            rec_id = [row[0] for row in rec_id_rows][0]
+            business_key = 'collection_' + rec_id
+            del_sql = del_sql_base.format(business_key)
+            delete_key_rows = database.fetch_all(del_sql)
+            delete_key = [row[0] for row in delete_key_rows][0]
+            withall = 'https://fsscbip.chinagasholdings.com/iuap-apcom-workflownew/ubpm-web-rest/service/runtime/ext/process-instances/' + delete_key + '/false/withall'
+            print(withall)
+            headers = {
+                "sign": "05f6c7bd181e60ea15d6a0ed575abd09b8db8e83",
+                'yht_access_token': yht_access_token,
+                'Content-Type': 'application/json;charset=UTF-8',
+                'source': 'yonbip-fi-earapbill',
+                'tenant': 'npuaqm6k'
+            }
+            result = api_call.call_api_delete(url=withall, headers=headers, data=None)
+            if result:
+                unsubmit_url = 'https://fsscbip.chinagasholdings.com/mdf-node/uniform/bill/unsubmit?cmdname=cmdUnsubmit&businessActName=收款单-撤回&terminalType=1&busiObj=collection&serviceCode=ear_bill_collection&sbillno=collectionList'
+                data = {
+                    'id': rec_id,
+                    'code': receive_code
+                }
+                headers = {
+                    'Content-Type': 'application/json',
+                    'domain-key': 'yonbip-fi-earapbill',
+                    'yht_access_token': yht_access_token
+                }
+                payload = {
+                    "billnum": "collection",
+                    "data": data
+                }
+                repsonse = api_call.http_post_headers(unsubmit_url, headers, payload=payload)
+                print(repsonse)
+    database.close()
+
 
 if __name__ == '__main__':
-    delete_todo('对账结果查询')
+    delete_todo('OARar250331275775')
     # delete_oa_todo('e3af982c-f355-11ef-ad62-060aa7890d6d')
+    #fault_unsubmit_rec(['RECar250331578628', 'RECar250331578594', 'RECar250331578590'])

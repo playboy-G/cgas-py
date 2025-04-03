@@ -259,9 +259,9 @@ def sync_supplier():
 
 if __name__ == '__main__':
     # 查询EBS供应商信息
-    # get_supplier('S00188258')
+    # get_supplier('S00188665')
     # 查询EBS数据分配组织
-    supplier_adapter_batch(['S00005466'])
+    supplier_adapter_batch(['S00188665'])
     # 按照供应商明细表分配组织
     # supplier_adapter_by_excel("../files/CUX.xlsx")
     # 查询供应商查询组织id

@@ -130,6 +130,54 @@ def customer_adapter(cust_code, database):
         hit_nums = api_call.call_api(url=url, payload=body)
         print(hit_nums)
 
+# 已知客户数据，分配适用范围
+def customer_adapter_know_cust(customer_data):
+    # 数据库连接
+    database = MySqlSSH()
+
+    cust0 = customer_data["cust"][0]
+    # 客户基础信息
+    cust_base = cust0["customer"]
+    # 客户编码
+    insert_cust_code = cust_base["account_number"]
+    # 客户id
+    sql = "select id from iuap_apdoc_coredoc.merchant where cCode = '{}'".format(insert_cust_code)
+    cust_rows = database.fetch_all(sql)
+    if not cust_rows:
+        return
+    cust_id = [row[0] for row in cust_rows][0]
+
+    # 客户往来公司（适用范围）
+    ou_datas = cust0["site"]
+    ou_codes = []
+    if ou_datas:
+        for ou_data in ou_datas:
+            ou_codes.append(ou_data["short_code"])
+
+        sql = "select id from iuap_apdoc_basedoc.org_orgs where enable = 1 and code in ({})"
+        rows = database.fetch_all(sql.format(','.join(["'%s'" % item for item in ou_codes])))
+        cust_ou_ids= []
+        for cust_ou_id in [row[0] for row in rows]:
+            cust_ou_ids.append(cust_ou_id)
+
+        data = []
+        insert_cust = {}
+        insert_cust["merchantId"] = cust_id
+        insert_cust["orgIds"] = cust_ou_ids
+        insert_cust["createOrgId"] = '666666'
+
+        data.append(insert_cust)
+
+        # 调用API接口执行分配
+        url = "/yonbip/digitalModel/merchant/batchDo"
+        api_call = ApiCall()
+        body = {}
+        body["data"] = data
+        print(body)
+        hit_nums = api_call.call_api(url=url, payload=body)
+        print(hit_nums)
+
+    database.close()
 
 def customer_adapter_from_file(cust_list=None):
     database = MySqlSSH()
@@ -245,18 +293,21 @@ def sync_cust_batch():
     print(ou_deal_no)
 
 # 同步客户、分配适用范围
-def sync_customer(cust_no):
-    data_sync.data_sync(DataSyncCode.customer, get_customer(cust_no).get('cust'))
-    customer_adapter_batch([cust_no])
+def sync_customer_batch(cust_nos):
+    for cust_no in cust_nos:
+        cust = get_customer(cust_no)
+        data_sync.data_sync(DataSyncCode.customer, cust.get('cust'))
+        customer_adapter_know_cust(cust)
 
 
 
 if __name__ == '__main__':
-    # get_customer("C69570250")
+    # get_customer("C00318978")
     # print(json.dumps(get_customer("370049")))
     # customer_ou(['100066'])
     # customer_adapter_from_file()
-    # customer_adapter_batch(['C00312860'])
+    # customer_adapter_batch(['C72097005','C72096573','C72094031'])
 
-    sync_customer('C62443869')
+    sync_customer_batch(['C72097395'])
+
 
