@@ -6,12 +6,12 @@ import requests
 from util.excel_utils import OperationXlsx
 from util.mysql_ssh_utils import MySqlSSH
 
-yht_access_token = 'bttSDhKZ1lUNitBbndlU0p0eUtvMlNNRU0rTG9HSjhmSng1OHN5bU92cWlZUnV2UVc5M2RqNVBQaHR5UDdxWGduR19fZnNzY2JpcC5jaGluYWdhc2hvbGRpbmdzLmNvbQ..__3f0ae99b806daf00524db4b9cf490e92_1737074719195TGTGdccore1iuap-apcom-workbenchf4f63618YT'
+yht_access_token = 'bttRm9FeVlrd08vL1hHWXA4My9YaXpsaGp2bW1va05BVlpYbnlSNCtmWmVFcDF5UDlaL3VqL2o4VGY0ZHZpR1FrQV9fZnNzY2JpcC5jaGluYWdhc2hvbGRpbmdzLmNvbQ..__3f0ae99b806daf00524db4b9cf490e92_1755218080760TGTGdccore1iuap-apcom-workbenchf4f63618YT'
 def update_emp_role_org(role_code):
 
     db = MySqlSSH()
 
-    excel = OperationXlsx("../files/ZR0003.xlsx")
+    excel = OperationXlsx("../files/role/" + role_code + ".xlsx")
     keys = ["user_code", "del_org_name"]
     # 读取文件获取员工信息
     file_read_data_objs = excel.read_excel_to_obj(4, keys)
@@ -37,7 +37,8 @@ def update_emp_role_org(role_code):
         body = {}
         user_roles = []
         # 根据角色查询角色下用户
-        sql = "select role_id, yhtuser_id, user_id, role_snowflake_id from iuap_apcom_auth.user_role where role_code = '{}' and yhtuser_id = (select id from iuap_apcom_auth.ba_user where code = '{}')".format(role_code, user_code)
+        sql = ("select role_id, yhtuser_id, user_id, role_snowflake_id from iuap_apcom_auth.user_role where role_code = '{}' and yhtuser_id = (select id from iuap_apcom_auth.ba_user where code = '{}')"
+               .format(role_code, user_code))
         user_rolw_rows = db.fetch_all(sql)
         for row in user_rolw_rows:
             user_role = {}
@@ -91,4 +92,4 @@ def update_emp_role_org(role_code):
     return None
 
 if __name__ == '__main__':
-    update_emp_role_org('ZR0003')
+    update_emp_role_org('ZR0053')

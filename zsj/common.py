@@ -45,16 +45,17 @@ def get_org_id_dict(org_codes, org_type, file_path=None, start_row=0):
     return results_dict
 
 # 根据组织名称查询组织id tax_type: 1-核算主体 2-行政主体
-def get_org_id_by_name(org_names, tax_type):
+def get_org_id_by_code(org_codes):
     db = MySqlSSH()
 
-    sql = "select name, code, id from iuap_apdoc_basedoc.org_orgs where enable = 1 and name in ({}) and {}"\
-        .format(','.join(["'%s'" % item for item in org_names]),
-                "taxpayertype = 1" if tax_type == 1 else "taxpayertype is null")
+    sql = "select name, code, id from iuap_apdoc_basedoc.org_orgs where enable = 1 and code in ({})"\
+        .format(','.join(["'%s'" % item for item in org_codes]))
+    # sql = "select name, code, id from iuap_apdoc_basedoc.org_orgs where enable = 1 and code like 'MDM%' and name in ({})" \
+    #     .format(','.join(["'%s'" % item for item in org_codes]))
     rows = db.fetch_all(sql)
     results_dict = {}
     for row in rows:
-        results_dict[row[0]] = row[2]
+        results_dict[row[1]] = row[2]
 
     db.close()
 

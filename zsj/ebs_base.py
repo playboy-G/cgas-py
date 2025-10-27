@@ -72,10 +72,11 @@ def get_assets(date=None, asset_id=None, book_type_code=None):
 
 
 # 九段值 SEGMENT取值对照：1-公司段 2-部门段 3-科目段 4-子目段 5-产品段 6-项目端 7-往来段 8-管理维度段 9-备用段
-def get_coa(seg_value, date_from, date_to):
+def get_coa(seg_value, flex_value=None, date_from=None, date_to=None):
     biz_data = json.dumps({
         "ledger_name": 'CG_中燃集团账套',                    # 账套名称
         "segment_column":"SEGMENT" + str(seg_value),   # 段名
+        "flex_value": flex_value,                      # 段值编码
         "date_from": date_from,                        # 开始时间
         "date_to": date_to,                            # 结束时间
         "rule_flag": "N"
@@ -83,7 +84,8 @@ def get_coa(seg_value, date_from, date_to):
 
     base64_data = Base64Utils.base64_encode(biz_data)
     req_data = json.dumps({
-        "P_IFACE_CODE": "10GL_COA",
+        # "P_IFACE_CODE": "10GL_COA",
+        "P_IFACE_CODE": "10GL_COA_SEG",  #new
         "P_BATCH_NUMBER": "0100202108270602",
         "P_REQUEST_DATA": base64_data
     })
@@ -110,7 +112,6 @@ def get_coa(seg_value, date_from, date_to):
 
 # 企业银行账户
 def get_org_bank(org_code):
-    query_url = 'http://soa.chinagasholdings.com:7011/services/F00100000011'
     username = 'OSB_PRD_BIP'
     password = 'BipPrdq6mx#42'
     auth = HTTPBasicAuth(username, password)
@@ -141,7 +142,7 @@ def get_org_bank(org_code):
 
     org_bank_data = None
     try:
-        response = requests.post(query_url, json=json.loads(req_data), headers=headers, auth=auth)
+        response = requests.post(Constants.soa_ebs_url, json=json.loads(req_data), headers=headers, auth=auth)
         if response.status_code == 200:
             back_data = json.loads(response.text)
             org_bank_data = Base64Utils.base64_decode(back_data["OutputParameters"]["X_RESPONSE_DATA"])
@@ -154,25 +155,12 @@ def get_org_bank(org_code):
 
     # return json.loads(org_bank_data)
 
-# 企业银行账户增量同步
-def sync_org_bank(org_code):
-    org_banks = get_org_bank(org_code)
-    api_param_list = []
-    for org_bank in org_banks:
-        api_param = {}
-
-
-
-
-
 
 
 if __name__ == '__main__':
-    # 按日期查
-    # get_assets(date='2024-10-01')
     # 具体资产编码查
-    # get_assett_id='s(asse10110333', book_type_code='CG_FA_320024')
+    # get_assets('','10426960', book_type_code='CG_FA_450008')
     # 段值 1-公司段 2-部门段 3-科目段 4-子目段 5-产品段 6-项目端 7-往来段 8-管理维度段 9-备用段
-    # get_coa(6, '2025-03-25', '2025-03-31')
+    get_coa(2, flex_value='1000310023', date_from='', date_to='')
     # 企业银行账户
-    get_org_bank("440140")
+    # get_org_bank('310004')

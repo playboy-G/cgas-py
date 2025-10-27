@@ -1,3 +1,6 @@
+import argparse
+from concurrent.futures import ThreadPoolExecutor
+
 import requests
 import json
 
@@ -163,13 +166,13 @@ def supplier_adapter_by_excel(file_path, sheet_name=None):
         # 供应商名称
         vendor_name = data_row[1]
         # 查询供应商id
-        vendor_sql = "select id from iuap_apdoc_coredoc.aa_vendor where name = '{}'"
+        vendor_sql = "select id from iuap_apdoc_coredoc.aa_vendor where code = '{}'"
         vendor_id_rows = database.fetch_all(vendor_sql.format(vendor_name))
         if vendor_id_rows:
             vendor["vendorId"] = [row[0] for row in vendor_id_rows][0]
 
         # vendor["orgIds"] = vendor_ou_ids
-        vendor["orgIds"] = ['2115444446490263553','2117725684004552712']
+        vendor["orgIds"] = ['1806152589975748676','1808403771298414615']
         vendor_list.append(vendor)
 
     print(vendor_list)
@@ -248,21 +251,30 @@ def supplier_adapter_org(vendor_codes):
 
     database.close()
 
+def example(file_name):
+    print(file_name)
+def supplier_adapter_thread(dir_path):
+    file_names = ['AAAAA','BBBBBBB','CCCCCC']
+    with ThreadPoolExecutor(max_workers=4) as executor:
+        futures = [executor.submit(example, file_name) for file_name in file_names]
 
-# 同步供应商
-def sync_supplier():
 
-
-
-    return None
-
+def main(args):
+    get_supplier(args.supplier_code)
 
 if __name__ == '__main__':
     # 查询EBS供应商信息
-    # get_supplier('S00188665')
+    # get_supplier('S00193735')
     # 查询EBS数据分配组织
-    supplier_adapter_batch(['S00188665'])
+    # supplier_adapter_batch(['420163'])
     # 按照供应商明细表分配组织
     # supplier_adapter_by_excel("../files/CUX.xlsx")
     # 查询供应商查询组织id
     # get_org_id_dict(["S00012275"], 2)
+
+    parser = argparse.ArgumentParser(description="Process some integers.")
+    parser.add_argument("supplier_code", type=str, help="supplier_code")
+    args = parser.parse_args()
+    main(args)
+
+

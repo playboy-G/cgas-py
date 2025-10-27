@@ -1,6 +1,8 @@
 import json
+import threading
 
 import requests
+from gevent.thread import lock
 from requests.auth import HTTPBasicAuth
 
 from util.api_call import ApiCall
@@ -113,22 +115,22 @@ def customer_adapter(cust_code, database):
         for cust_ou_id in [row[0] for row in rows]:
             cust_ou_ids.append(cust_ou_id)
 
-        data = []
-        insert_cust = {}
-        insert_cust["merchantId"] = cust_id
-        insert_cust["orgIds"] = cust_ou_ids
-        insert_cust["createOrgId"] = '666666'
+    data = []
+    insert_cust = {}
+    insert_cust["merchantId"] = cust_id
+    insert_cust["orgIds"] = cust_ou_ids
+    insert_cust["createOrgId"] = '666666'
 
-        data.append(insert_cust)
+    data.append(insert_cust)
 
-        # 调用API接口执行分配
-        url = "/yonbip/digitalModel/merchant/batchDo"
-        api_call = ApiCall()
-        body = {}
-        body["data"] = data
-        print(body)
-        hit_nums = api_call.call_api(url=url, payload=body)
-        print(hit_nums)
+    # 调用API接口执行分配
+    url = "/yonbip/digitalModel/merchant/batchDo"
+    api_call = ApiCall()
+    body = {}
+    body["data"] = data
+    print(body)
+    hit_nums = api_call.call_api(url=url, payload=body)
+    print(hit_nums)
 
 # 已知客户数据，分配适用范围
 def customer_adapter_know_cust(customer_data):
@@ -294,20 +296,60 @@ def sync_cust_batch():
 
 # 同步客户、分配适用范围
 def sync_customer_batch(cust_nos):
+
+    nodata = []
     for cust_no in cust_nos:
         cust = get_customer(cust_no)
-        data_sync.data_sync(DataSyncCode.customer, cust.get('cust'))
-        customer_adapter_know_cust(cust)
+        if len(cust['cust']) != 0:
+            data_sync.data_sync(DataSyncCode.customer, cust.get('cust'))
+            customer_adapter_know_cust(cust)
+        else:
+            nodata.append(cust_no)
+    if len(nodata) != 0:
+        print(nodata)
 
+
+def customer_adapter_worker(start_idx, end_idx):
+    global cust_code_arr
+    for i in range(start_idx, end_idx):
+        # with lock:  # 确保线程安全
+        cust_code = cust_code_arr[i]
+        deal_arr = []
+        deal_arr.append(cust_code)
+        customer_adapter_batch(deal_arr)
+def customer_adapter_thread():
+    threads = []
+    array_size = len(cust_code_arr)
+    threads_count = 20
+    chunk_size = array_size//threads_count  # 每个线程处理的数据块大小
+
+    # 创建并启动线程
+    for i in range(threads_count):
+        start = i * chunk_size
+        end = (i + 1) * chunk_size if i != threads_count - 1 else array_size
+        t = threading.Thread(
+            target=customer_adapter_worker,
+            args=(start, end)
+        )
+        threads.append(t)
+        t.start()
+
+    # 等待所有线程完成
+    for t in threads:
+        t.join()
 
 
 if __name__ == '__main__':
-    # get_customer("C00318978")
-    # print(json.dumps(get_customer("370049")))
+    # get_customer("C59025604")
+    # print(json.dumps(get_customer("C70680088")))
     # customer_ou(['100066'])
     # customer_adapter_from_file()
-    # customer_adapter_batch(['C72097005','C72096573','C72094031'])
+    # customer_adapter_batch()
+    # customer_adapter_thread()
+    sync_customer_batch(['C00306702'])
 
-    sync_customer_batch(['C72097395'])
+
+
+
 
 

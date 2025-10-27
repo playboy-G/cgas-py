@@ -130,7 +130,7 @@ def update_depart_base(file_path):
 
 
 if __name__ == '__main__':
-    get_depart("214835")
+    get_depart("201988")
     # update_depart_base('../files/depart.xlsx')
 
 

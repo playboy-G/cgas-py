@@ -189,12 +189,12 @@ def put_part_time_by_file(file_path):
     employees = get_employee_by_api(employee_effect_codes)
 
     # 查询所有公司名称对应的行政组织id
-    org_names = list(set(excel.get_col_values_by_id(2, 2)))
-    org_effect_names = []
-    for org_name in org_names:
-        if org_name is not None:
-            org_effect_names.append(org_name)
-    org_id_dict = common.get_org_id_by_name(org_effect_names, 2)
+    org_codes = list(set(excel.get_col_values_by_id(2, 2)))
+    org_effect_codes = []
+    for org_code in org_codes:
+        if org_code is not None:
+            org_effect_codes.append(org_code)
+    org_id_dict = common.get_org_id_by_code(org_effect_codes)
 
     # 查询所有部门编码对应的id
     dept_codes = list(set(excel.get_col_values_by_id(2, 4)))
@@ -222,6 +222,8 @@ def put_part_time_by_file(file_path):
         else:
             per_emp_pts = []
         per_emp_pt = {}
+        if not org_id_dict.get(data.pt_org_name) or not dept_id_dict.get(data.pt_dept_code):
+            continue
         per_emp_pt["org_id"] = org_id_dict[data.pt_org_name]
         per_emp_pt["dept_id"] = dept_id_dict[data.pt_dept_code]
         # per_emp_pt["job_id"] = duty_dict[data.duty]
@@ -269,12 +271,23 @@ def put_part_time_by_file(file_path):
             emp_update["ptJobList"] = pt_jobs
 
             req_date.append(emp_update)
+
+            if len(req_date) == 10:
+                body["data"] = req_date
+                print("员工批量新增请求体：{}".format(body))
+
+                # 调用APi接口
+                api_call = ApiCall()
+                url = "/yonbip/digitalModel/staff/batchSave"
+                hit_nums = api_call.call_api(url=url, payload=body)
+                print(hit_nums)
+                req_date = []
         except:
             print(employee)
+
+
     body["data"] = req_date
-
     print("员工批量新增请求体：{}".format(body))
-
     # 调用APi接口
     api_call = ApiCall()
     url = "/yonbip/digitalModel/staff/batchSave"
@@ -285,7 +298,7 @@ def put_part_time_by_file(file_path):
 
 
 if __name__ == '__main__':
-    get_mdm_staff("10159553")
+    # get_mdm_staff("10160434")
     # get_mdm_staff_job("2000-01-01", "2025-12-31", 0, "10015621")
     # get_employee_by_api("ZSJWH")
-    # put_part_time_by_file("../files/pt.xlsx")
+    put_part_time_by_file("../files/pt.xlsx")

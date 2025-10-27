@@ -1,0 +1,1002 @@
+[
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987046",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C71854096",
+        "quantity": 16,
+        "project": "",
+        "oriTaxAmount": 5.26,
+        "oriTaxIncludedAmount": 63.68,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987464",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C71854096",
+        "quantity": 33,
+        "project": "",
+        "oriTaxAmount": 10.84,
+        "oriTaxIncludedAmount": 131.34,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987691",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00169175",
+        "quantity": 43,
+        "project": "",
+        "oriTaxAmount": 14.13,
+        "oriTaxIncludedAmount": 171.14,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987465",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C71803143",
+        "quantity": 1288,
+        "project": "",
+        "oriTaxAmount": 423.27,
+        "oriTaxIncludedAmount": 5126.24,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987267",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00021497",
+        "quantity": 250,
+        "project": "",
+        "oriTaxAmount": 82.16,
+        "oriTaxIncludedAmount": 995,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987692",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00024213",
+        "quantity": 17,
+        "project": "",
+        "oriTaxAmount": 5.59,
+        "oriTaxIncludedAmount": 67.66,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214986948",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00024212",
+        "quantity": 196,
+        "project": "",
+        "oriTaxAmount": 64.41,
+        "oriTaxIncludedAmount": 780.08,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214986949",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C72195147",
+        "quantity": 30,
+        "project": "",
+        "oriTaxAmount": 9.86,
+        "oriTaxIncludedAmount": 119.4,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987374",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00023106",
+        "quantity": 4,
+        "project": "",
+        "oriTaxAmount": 1.31,
+        "oriTaxIncludedAmount": 15.92,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987466",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00023006",
+        "quantity": 9,
+        "project": "",
+        "oriTaxAmount": 2.96,
+        "oriTaxIncludedAmount": 35.82,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987467",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00022931",
+        "quantity": 239,
+        "project": "",
+        "oriTaxAmount": 78.54,
+        "oriTaxIncludedAmount": 951.22,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987468",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00023118",
+        "quantity": 375,
+        "project": "",
+        "oriTaxAmount": 123.23,
+        "oriTaxIncludedAmount": 1492.5,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987165",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00022957",
+        "quantity": 268,
+        "project": "",
+        "oriTaxAmount": 88.07,
+        "oriTaxIncludedAmount": 1066.64,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987579",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C42169638",
+        "quantity": 415,
+        "project": "",
+        "oriTaxAmount": 136.38,
+        "oriTaxIncludedAmount": 1651.7,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987269",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00024242",
+        "quantity": 5,
+        "project": "",
+        "oriTaxAmount": 1.64,
+        "oriTaxIncludedAmount": 19.9,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987270",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C70107291",
+        "quantity": 13,
+        "project": "",
+        "oriTaxAmount": 4.27,
+        "oriTaxIncludedAmount": 51.74,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987271",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C70267124",
+        "quantity": 7,
+        "project": "",
+        "oriTaxAmount": 2.3,
+        "oriTaxIncludedAmount": 27.86,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987272",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00022008",
+        "quantity": 5,
+        "project": "",
+        "oriTaxAmount": 1.64,
+        "oriTaxIncludedAmount": 19.9,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987694",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00009063",
+        "quantity": 67,
+        "project": "",
+        "oriTaxAmount": 22.02,
+        "oriTaxIncludedAmount": 266.66,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987695",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00023715",
+        "quantity": 106,
+        "project": "",
+        "oriTaxAmount": 34.83,
+        "oriTaxIncludedAmount": 421.88,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214986950",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C72164432",
+        "quantity": 550,
+        "project": "",
+        "oriTaxAmount": 180.74,
+        "oriTaxIncludedAmount": 2189,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214986952",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C72059396",
+        "quantity": 79,
+        "project": "",
+        "oriTaxAmount": 25.96,
+        "oriTaxIncludedAmount": 314.42,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987377",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C44146723",
+        "quantity": 66,
+        "project": "",
+        "oriTaxAmount": 21.69,
+        "oriTaxIncludedAmount": 262.68,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987050",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00185600",
+        "quantity": 1295,
+        "project": "",
+        "oriTaxAmount": 425.57,
+        "oriTaxIncludedAmount": 5154.1,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987169",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C72112003",
+        "quantity": 462,
+        "project": "",
+        "oriTaxAmount": 151.82,
+        "oriTaxIncludedAmount": 1838.76,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987170",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00021783",
+        "quantity": 2,
+        "project": "",
+        "oriTaxAmount": 0.66,
+        "oriTaxIncludedAmount": 7.96,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987171",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C47577129",
+        "quantity": 19,
+        "project": "",
+        "oriTaxAmount": 6.24,
+        "oriTaxIncludedAmount": 75.62,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987173",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C71850760",
+        "quantity": 555,
+        "project": "",
+        "oriTaxAmount": 182.39,
+        "oriTaxIncludedAmount": 2208.9,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987580",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00025755",
+        "quantity": 22,
+        "project": "",
+        "oriTaxAmount": 7.23,
+        "oriTaxIncludedAmount": 87.56,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987581",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00023020",
+        "quantity": 1,
+        "project": "",
+        "oriTaxAmount": 0.33,
+        "oriTaxIncludedAmount": 3.98,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987582",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00023015",
+        "quantity": 166,
+        "project": "",
+        "oriTaxAmount": 54.55,
+        "oriTaxIncludedAmount": 660.68,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987583",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00024243",
+        "quantity": 522,
+        "project": "",
+        "oriTaxAmount": 171.54,
+        "oriTaxIncludedAmount": 2077.56,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987273",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00022899",
+        "quantity": 113,
+        "project": "",
+        "oriTaxAmount": 37.13,
+        "oriTaxIncludedAmount": 449.74,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987274",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00010131",
+        "quantity": 2033,
+        "project": "",
+        "oriTaxAmount": 668.09,
+        "oriTaxIncludedAmount": 8091.34,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987275",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00149179",
+        "quantity": 1,
+        "project": "",
+        "oriTaxAmount": 0.33,
+        "oriTaxIncludedAmount": 3.98,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987276",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00185615",
+        "quantity": 689,
+        "project": "",
+        "oriTaxAmount": 226.42,
+        "oriTaxIncludedAmount": 2742.22,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987696",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C72157355",
+        "quantity": 204,
+        "project": "",
+        "oriTaxAmount": 67.04,
+        "oriTaxIncludedAmount": 811.92,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987697",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00023016",
+        "quantity": 559,
+        "project": "",
+        "oriTaxAmount": 183.7,
+        "oriTaxIncludedAmount": 2224.82,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987698",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C71005708",
+        "quantity": 446,
+        "project": "",
+        "oriTaxAmount": 146.57,
+        "oriTaxIncludedAmount": 1775.08,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987699",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00022973",
+        "quantity": 643,
+        "project": "",
+        "oriTaxAmount": 211.31,
+        "oriTaxIncludedAmount": 2559.14,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987700",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00023029",
+        "quantity": 598,
+        "project": "",
+        "oriTaxAmount": 196.52,
+        "oriTaxIncludedAmount": 2380.04,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987379",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00022866",
+        "quantity": 297,
+        "project": "",
+        "oriTaxAmount": 97.6,
+        "oriTaxIncludedAmount": 1182.06,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987380",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00021468",
+        "quantity": 82,
+        "project": "",
+        "oriTaxAmount": 26.95,
+        "oriTaxIncludedAmount": 326.36,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987051",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00024211",
+        "quantity": 1794,
+        "project": "",
+        "oriTaxAmount": 589.55,
+        "oriTaxIncludedAmount": 7140.12,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987052",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00022923",
+        "quantity": 844,
+        "project": "",
+        "oriTaxAmount": 277.36,
+        "oriTaxIncludedAmount": 3359.12,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987053",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C70266938",
+        "quantity": 347,
+        "project": "",
+        "oriTaxAmount": 114.03,
+        "oriTaxIncludedAmount": 1381.06,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987054",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C70794007",
+        "quantity": 6,
+        "project": "",
+        "oriTaxAmount": 1.97,
+        "oriTaxIncludedAmount": 23.88,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987470",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00021363",
+        "quantity": 116,
+        "project": "",
+        "oriTaxAmount": 38.12,
+        "oriTaxIncludedAmount": 461.68,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987471",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C00023038",
+        "quantity": 14,
+        "project": "",
+        "oriTaxAmount": 4.6,
+        "oriTaxIncludedAmount": 55.72,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    },
+    {
+        "freeChId": {
+            "LPG001": "CRM210001250928004",
+            "TY056": "500000214987472",
+            "FP34": "1806980470680322081",
+            "SUBACCOUNT": "",
+            "PRODUCTS": "1812748689060921379",
+            "MANAGE": "1812741765573640201",
+            "TZ001": ""
+        },
+        "taxRate": 9.0,
+        "customerCode": "C72191618",
+        "quantity": 21,
+        "project": "",
+        "oriTaxAmount": 6.9,
+        "oriTaxIncludedAmount": 83.58,
+        "expenseItem": "1828639982164639756",
+        "_status": "Insert",
+        "unit": "1826420334463025202"
+    }
+]

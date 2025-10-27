@@ -5,9 +5,10 @@ import requests
 
 from util.api_call import ApiCall
 from util.mysql_ssh_utils import MySqlSSH
-from zsj.common import get_soa_auth
+from zsj.common import get_soa_auth, read_json_to_list
+from zsj.customer import sync_customer_batch
 
-yht_access_token = 'bttUWY0cC8yM29yY2VMd21BdzdYS0hUbU51R0ZYQzR0T3dDTlBoZlJVZFNlY054emtOOFV1SGlKSURmNWVlU1FIVF9fZnNzY2JpcC5jaGluYWdhc2hvbGRpbmdzLmNvbQ..__3f0ae99b806daf00524db4b9cf490e92_1743578553930TGTGdccore1iuap-apcom-workbench363e7669YT'
+yht_access_token = 'bttcDV0TlBBaUNHWll6WHRJdVBUM3lMRjBPK2xPSjZrdDhLbDFQYUI5MEhJdGFvRXNxQ3dRYzBYc0VBWExIZE1Pa19fZnNzY2JpcC5jaGluYWdhc2hvbGRpbmdzLmNvbQ..__3f0ae99b806daf00524db4b9cf490e92_1760921534424TGTGdccore1iuap-apcom-workbencha605d174YT'
 
 # 删除待办
 def delete_todo(delete_key):
@@ -76,6 +77,7 @@ def delete_oa_todo(business_key):
     oa_delete_url = 'http://172.22.0.188/ntd-manage/restapi/cancelMsgBatch'
     req_data = json.dumps([{
         "fMessageId": fMessageId,
+        # "fMessageId": 'e14d6a6b-561e-11f0-8167-b60f2d8f62fcchenfenghfalse',
         "fSysType": "CWGX_SYS"
     }])
     headers = {
@@ -92,23 +94,27 @@ def fault_unsubmit_rec(receive_codes):
     database = MySqlSSH()
     api_call = ApiCall()
 
-    # 05f6c7bd181e60ea15d6a0ed575abd09b8db8e83
-    yht_access_token = 'bttK2pLNXZRV3F5NTlVYnI0RUd6OHFKK0ZyQWNKUkZNWFFLMHc1MHY5cXR1RzRDT21jWkplWmZyVytJMUhWajRGOV9fZnNzY2JpcC5jaGluYWdhc2hvbGRpbmdzLmNvbQ..__3f0ae99b806daf00524db4b9cf490e92_1743563337384TGTGdccore1iuap-apcom-workbenched5a182dYT'
+    # 收款单
     sql_base = "select id from fiearapbill.ar_collection_h where bill_code = '{}'"
+    #应收报账单
+    # sql_base = "select id from fiearapbill.ar_receivable_h where bill_code = '{}'"
     del_sql_base = "select id_ from iuap_apcom_workflow.act_hi_procinst where business_key_ = '{}'"
     for receive_code in receive_codes:
         sql = sql_base.format(receive_code)
         rec_id_rows = database.fetch_all(sql)
         if rec_id_rows:
             rec_id = [row[0] for row in rec_id_rows][0]
+            # 收款单
             business_key = 'collection_' + rec_id
+            # 应收报账单
+            # business_key = 'receivable_' + rec_id
             del_sql = del_sql_base.format(business_key)
             delete_key_rows = database.fetch_all(del_sql)
             delete_key = [row[0] for row in delete_key_rows][0]
             withall = 'https://fsscbip.chinagasholdings.com/iuap-apcom-workflownew/ubpm-web-rest/service/runtime/ext/process-instances/' + delete_key + '/false/withall'
             print(withall)
             headers = {
-                "sign": "05f6c7bd181e60ea15d6a0ed575abd09b8db8e83",
+                "sign": "05f6c7bd181e60ea15d6a0ed575abd09b8db8e83", # 05f6c7bd181e60ea15d6a0ed575abd09b8db8e83
                 'yht_access_token': yht_access_token,
                 'Content-Type': 'application/json;charset=UTF-8',
                 'source': 'yonbip-fi-earapbill',
@@ -128,14 +134,38 @@ def fault_unsubmit_rec(receive_codes):
                 }
                 payload = {
                     "billnum": "collection",
+                    # "billnum": "receivable",
                     "data": data
                 }
                 repsonse = api_call.http_post_headers(unsubmit_url, headers, payload=payload)
                 print(repsonse)
     database.close()
 
+def batch_update_by_log():
+    database = MySqlSSH()
+
+    log_cust_list = read_json_to_list('../files/C00019788.json')
+
+    for log_cust in log_cust_list:
+        update_sql = "update iuap_apdoc_coredoc.agentfinancialnew set cBankAccountName = '{}', cBankAccount = '{}' where imerchantId = '2824021792818015365' and id = '{}'"
+        log_cust_account = log_cust.get("bankAccount")
+        log_cust_accName = log_cust.get("bankAccountName").get("zh_CN")
+        id = log_cust.get("id")
+        update_sql = update_sql.format(log_cust_accName, log_cust_account, id)
+        database.update(update_sql)
+    database.close()
+
 
 if __name__ == '__main__':
-    delete_todo('OARar250331275775')
-    # delete_oa_todo('e3af982c-f355-11ef-ad62-060aa7890d6d')
-    #fault_unsubmit_rec(['RECar250331578628', 'RECar250331578594', 'RECar250331578590'])
+    delete_todo('TAPLC2510090016')
+    # delete_oa_todo('')
+    # fault_unsubmit_rec(['RECar250609717809'])
+
+    # batch_update_by_log()
+
+    # cust_list = read_json_to_list('../files/CRM.json')
+    # code_list = []
+    # for cust_dic in cust_list:
+    #     code_list.append(cust_dic.get("customerCode"))
+    # print(code_list)
+    # sync_customer_batch(code_list)

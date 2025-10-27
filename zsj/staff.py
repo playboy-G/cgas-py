@@ -58,7 +58,11 @@ def get_one_staff(empId):
         'Content-Type': 'application/json'
     }
     response = requests.request("POST", mdm_staff_url, headers=headers, data=payload)
+    print(response.text)
     paramData = json.loads(response.text)
+    for staff in paramData.get("custMasterDataIntfList"):
+        if not staff.get("identId"):
+            staff["identId"] = ""
     try:
         return paramData["custMasterDataIntfList"]
     except Exception as e:
@@ -83,14 +87,14 @@ def getStaffs(startDate, endDate, batch, batchHistory, pageNumber):
     return paramData
 
 
-yht_access_token = "bttS3A0aVJsc0xuNjdpODdTZXMwMHVTSnk0WnVoQXJhbDNxQjFpampjOHROZkdKU0g4YWdla0RTT2hpWG5yQnVua19fZnNzY2JpcC5jaGluYWdhc2hvbGRpbmdzLmNvbQ..__3f0ae99b806daf00524db4b9cf490e92_1743381534112TGTGdccore1iuap-apcom-workbenchf4f63618YT"
+yht_access_token = "bttUDRmbC9kVnpOYTFaRkRIdXdXaXdtNVpVYVFndXRBUnU2aHluOVc1dGx0OHpCNUM2UDRGbXYraWNzU1B4ekV6UF9fZnNzY2JpcC5jaGluYWdhc2hvbGRpbmdzLmNvbQ..__3f0ae99b806daf00524db4b9cf490e92_1761286624784TGTGdccore1iuap-apcom-workbenchf4f63618YT"
 startDate = '2024-01-01'
 endDate = '2025-12-31'
 
 if __name__ == '__main__':
     # api = access_token()
     emplIds = [
-        10114716
+        10164779
     ]
     for index, item in enumerate(emplIds):
         # for item in range(10154200, 10154298):
