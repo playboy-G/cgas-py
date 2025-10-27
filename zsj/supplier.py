@@ -264,7 +264,7 @@ def main(args):
 
 if __name__ == '__main__':
     # 查询EBS供应商信息
-    # get_supplier('S00193735')
+    get_supplier('S00193735')
     # 查询EBS数据分配组织
     # supplier_adapter_batch(['420163'])
     # 按照供应商明细表分配组织
@@ -272,9 +272,9 @@ if __name__ == '__main__':
     # 查询供应商查询组织id
     # get_org_id_dict(["S00012275"], 2)
 
-    parser = argparse.ArgumentParser(description="Process some integers.")
-    parser.add_argument("supplier_code", type=str, help="supplier_code")
-    args = parser.parse_args()
-    main(args)
+    # parser = argparse.ArgumentParser(description="Process some integers.")
+    # parser.add_argument("supplier_code", type=str, help="supplier_code")
+    # args = parser.parse_args()
+    # main(args)
 
 
